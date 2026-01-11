@@ -1,6 +1,6 @@
 {
   "leftWall": [
-    { "id": "L1", "x": -2.4, "y": 1.8, "scale": 0.35, "museumNumber": "" },
+    { "id": "L1", "x": -2.4, "y": 1.8, "scale": 0.35, "museumNumber": "LOAN:GILBERT.828:1-14-2008" },
     { "id": "L2", "x": -2.0, "y": 1.8, "scale": 0.35, "museumNumber": "" },
     { "id": "L3", "x": -1.6, "y": 1.8, "scale": 0.35, "museumNumber": "" },
     { "id": "L4", "x": -1.2, "y": 1.8, "scale": 0.35, "museumNumber": "" },
@@ -19,7 +19,7 @@
     { "id": "L15", "x": -1.6, "y": 1.0, "scale": 0.35, "museumNumber": "" },
     { "id": "L16", "x": -1.2, "y": 1.0, "scale": 0.35, "museumNumber": "" },
     { "id": "L17", "x": -0.8, "y": 1.0, "scale": 0.35, "museumNumber": "" },
-    { "id": "L18", "x": -0.4, "y": 1.0, "scale": 0.35, "museumNumber": "" },
+    { "id": "L18", "x": -0.4, "y": 1.0, "scale": 0.35, "museumNumber": "LOAN:GILBERT.828:1-14-2008" },
 
     { "id": "L19", "x": -2.4, "y": 0.6, "scale": 0.35, "museumNumber": "" },
     { "id": "L20", "x": -2.0, "y": 0.6, "scale": 0.35, "museumNumber": "" },
