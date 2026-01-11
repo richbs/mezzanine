@@ -1,0 +1,68 @@
+{
+  "leftWall": [
+    { "id": "L1", "x": -2.4, "y": 1.8, "scale": 0.35, "museumNumber": "" },
+    { "id": "L2", "x": -2.0, "y": 1.8, "scale": 0.35, "museumNumber": "" },
+    { "id": "L3", "x": -1.6, "y": 1.8, "scale": 0.35, "museumNumber": "" },
+    { "id": "L4", "x": -1.2, "y": 1.8, "scale": 0.35, "museumNumber": "" },
+    { "id": "L5", "x": -0.8, "y": 1.8, "scale": 0.35, "museumNumber": "" },
+    { "id": "L6", "x": -0.4, "y": 1.8, "scale": 0.35, "museumNumber": "" },
+
+    { "id": "L7", "x": -2.4, "y": 1.4, "scale": 0.35, "museumNumber": "" },
+    { "id": "L8", "x": -2.0, "y": 1.4, "scale": 0.35, "museumNumber": "" },
+    { "id": "L9", "x": -1.6, "y": 1.4, "scale": 0.35, "museumNumber": "" },
+    { "id": "L10", "x": -1.2, "y": 1.4, "scale": 0.35, "museumNumber": "" },
+    { "id": "L11", "x": -0.8, "y": 1.4, "scale": 0.35, "museumNumber": "" },
+    { "id": "L12", "x": -0.4, "y": 1.4, "scale": 0.35, "museumNumber": "" },
+
+    { "id": "L13", "x": -2.4, "y": 1.0, "scale": 0.35, "museumNumber": "" },
+    { "id": "L14", "x": -2.0, "y": 1.0, "scale": 0.35, "museumNumber": "" },
+    { "id": "L15", "x": -1.6, "y": 1.0, "scale": 0.35, "museumNumber": "" },
+    { "id": "L16", "x": -1.2, "y": 1.0, "scale": 0.35, "museumNumber": "" },
+    { "id": "L17", "x": -0.8, "y": 1.0, "scale": 0.35, "museumNumber": "" },
+    { "id": "L18", "x": -0.4, "y": 1.0, "scale": 0.35, "museumNumber": "" },
+
+    { "id": "L19", "x": -2.4, "y": 0.6, "scale": 0.35, "museumNumber": "" },
+    { "id": "L20", "x": -2.0, "y": 0.6, "scale": 0.35, "museumNumber": "" },
+    { "id": "L21", "x": -1.6, "y": 0.6, "scale": 0.35, "museumNumber": "" },
+    { "id": "L22", "x": -1.2, "y": 0.6, "scale": 0.35, "museumNumber": "" },
+    { "id": "L23", "x": -0.8, "y": 0.6, "scale": 0.35, "museumNumber": "" },
+    { "id": "L24", "x": -0.4, "y": 0.6, "scale": 0.35, "museumNumber": "" },
+
+    { "id": "L25", "x": -2.4, "y": 0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L26", "x": -2.0, "y": 0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L27", "x": -1.6, "y": 0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L28", "x": -1.2, "y": 0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L29", "x": -0.8, "y": 0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L30", "x": -0.4, "y": 0.2, "scale": 0.35, "museumNumber": "" },
+
+    { "id": "L31", "x": -2.4, "y": -0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L32", "x": -2.0, "y": -0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L33", "x": -1.6, "y": -0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L34", "x": -1.2, "y": -0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L35", "x": -0.8, "y": -0.2, "scale": 0.35, "museumNumber": "" },
+    { "id": "L36", "x": -0.4, "y": -0.2, "scale": 0.35, "museumNumber": "" }
+  ],
+
+  "centerWall": [
+    { "id": "C1", "x": -2.5, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C2", "x": -2.0, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C3", "x": -1.5, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C4", "x": -1.0, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C5", "x": -0.5, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C6", "x": 0.0, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C7", "x": 0.5, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C8", "x": 1.0, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C9", "x": 1.5, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C10", "x": 2.0, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C11", "x": 2.5, "y": 0.5, "scale": 0.5, "museumNumber": "" },
+    { "id": "C12", "x": -2.25, "y": 0.0, "scale": 0.4, "museumNumber": "" }
+  ],
+
+  "rightWall": [
+    { "id": "R1", "x": 1.2, "y": 1.5, "scale": 0.6, "museumNumber": "" },
+    { "id": "R2", "x": 2.0, "y": 1.5, "scale": 0.6, "museumNumber": "" },
+    { "id": "R3", "x": 1.2, "y": 0.5, "scale": 0.6, "museumNumber": "" },
+    { "id": "R4", "x": 2.0, "y": 0.5, "scale": 0.6, "museumNumber": "" },
+    { "id": "R5", "x": 1.6, "y": -0.3, "scale": 0.5, "museumNumber": "" }
+  ]
+}
