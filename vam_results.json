@@ -89,12 +89,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "1",
+            "case": "CA011",
+            "shelf": "5",
             "box": ""
           }
         ],
@@ -359,7 +359,7 @@
         "assets": [
           "2019LU9124"
         ],
-        "recordModificationDate": "2025-09-02",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -455,12 +455,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "1",
+            "case": "CA011",
+            "shelf": "5",
             "box": ""
           }
         ],
@@ -732,7 +732,7 @@
         "assets": [
           "2019LV9838"
         ],
-        "recordModificationDate": "2025-09-02",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -828,12 +828,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "1",
+            "case": "CA011",
+            "shelf": "5",
             "box": ""
           }
         ],
@@ -1105,7 +1105,7 @@
         "assets": [
           "2019LT9714"
         ],
-        "recordModificationDate": "2025-09-02",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -1201,12 +1201,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB36/MB2",
-            "shelf": "1",
+            "case": "CA012",
+            "shelf": "5",
             "box": ""
           }
         ],
@@ -1478,7 +1478,7 @@
         "assets": [
           "2019LU2564"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -1574,12 +1574,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB36/MB2",
-            "shelf": "1",
+            "case": "CA012",
+            "shelf": "5",
             "box": ""
           }
         ],
@@ -1851,7 +1851,7 @@
         "assets": [
           "2019LU9125"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -1947,12 +1947,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB36/MB2",
-            "shelf": "1",
+            "case": "CA012",
+            "shelf": "5",
             "box": ""
           }
         ],
@@ -2224,7 +2224,7 @@
         "assets": [
           "2019LW0114"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -2245,11 +2245,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EW5819/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EW5819/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8193/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8193/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8193",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8196",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8195",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8194",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EW5819",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -2326,6 +2346,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8193",
+          "2025PK8196",
+          "2025PK8195",
+          "2025PK8194",
           "2011EW5819",
           "2011EW5821"
         ],
@@ -2333,12 +2357,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA011",
+            "shelf": "1",
             "box": ""
           }
         ],
@@ -2586,7 +2610,7 @@
         "assets": [
           "2019LW8551"
         ],
-        "recordModificationDate": "2025-09-12",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -2607,11 +2631,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EW5823/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EW5823/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8134/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8134/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8134",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8137",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8136",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8135",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EW5823",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -2688,6 +2732,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8134",
+          "2025PK8137",
+          "2025PK8136",
+          "2025PK8135",
           "2011EW5823",
           "2011EW5822"
         ],
@@ -2695,11 +2743,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
+            "case": "CA011",
             "shelf": "2",
             "box": ""
           }
@@ -2948,7 +2996,7 @@
         "assets": [
           "2019LW3952"
         ],
-        "recordModificationDate": "2025-09-12",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -2969,11 +3017,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EW5825/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EW5825/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8142/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8142/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8142",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8145",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8144",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8143",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EW5825",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -3050,6 +3118,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8142",
+          "2025PK8145",
+          "2025PK8144",
+          "2025PK8143",
           "2011EW5825",
           "2011EW5826"
         ],
@@ -3057,12 +3129,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA011",
+            "shelf": "5",
             "box": ""
           }
         ],
@@ -3310,7 +3382,7 @@
         "assets": [
           "2019LV8693"
         ],
-        "recordModificationDate": "2025-09-12",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -3331,11 +3403,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EW5834/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EW5834/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8146/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8146/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8146",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8149",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8148",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8147",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EW5834",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -3412,6 +3504,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8146",
+          "2025PK8149",
+          "2025PK8148",
+          "2025PK8147",
           "2011EW5834",
           "2011EW5830"
         ],
@@ -3419,12 +3515,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "MB003",
-              "id": "THES385155"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "5",
             "box": ""
           }
         ],
@@ -3672,7 +3768,7 @@
         "assets": [
           "2019LW3674"
         ],
-        "recordModificationDate": "2025-09-03",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -3693,11 +3789,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EW5835/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EW5835/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8150/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8150/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8150",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8153",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8152",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8151",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EW5835",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -3774,6 +3890,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8150",
+          "2025PK8153",
+          "2025PK8152",
+          "2025PK8151",
           "2011EW5835",
           "2011EW5816"
         ],
@@ -3781,11 +3901,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
+            "case": "CA012",
             "shelf": "2",
             "box": ""
           }
@@ -4034,7 +4154,7 @@
         "assets": [
           "2019LU6850"
         ],
-        "recordModificationDate": "2025-09-12",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -4055,11 +4175,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EW5814/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EW5814/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8060/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8060/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8060",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8063",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8062",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8061",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EW5814",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -4136,6 +4276,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8060",
+          "2025PK8063",
+          "2025PK8062",
+          "2025PK8061",
           "2011EW5814",
           "2011EW5813"
         ],
@@ -4143,12 +4287,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA012",
+            "shelf": "3",
             "box": ""
           }
         ],
@@ -4403,7 +4547,7 @@
         "assets": [
           "2019LW2117"
         ],
-        "recordModificationDate": "2025-09-12",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -4424,11 +4568,36 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EW5944/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EW5944/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8125/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8125/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8125",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8124",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8128",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8127",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8126",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EW5944",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -4527,6 +4696,11 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8125",
+          "2025PK8124",
+          "2025PK8128",
+          "2025PK8127",
+          "2025PK8126",
           "2011EW5944",
           "2011EW5945",
           "2011EW5974",
@@ -4536,12 +4710,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB28/MB2",
-            "shelf": "3",
+            "case": "CA012",
+            "shelf": "2",
             "box": ""
           }
         ],
@@ -4727,7 +4901,7 @@
         "assets": [
           "2019LW8392"
         ],
-        "recordModificationDate": "2025-08-26",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -4748,11 +4922,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2010EM4637/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2010EM4637/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8197/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8197/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8197",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8200",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8199",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8198",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2010EM4637",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -4856,6 +5050,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8197",
+          "2025PK8200",
+          "2025PK8199",
+          "2025PK8198",
           "2010EM4637",
           "2010EM4639",
           "2010EM4638",
@@ -4866,12 +5064,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "008",
-              "id": "THES404527"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "1",
             "box": ""
           }
         ],
@@ -5058,7 +5256,7 @@
           "2019LU7962",
           "2019LX0118"
         ],
-        "recordModificationDate": "2025-08-06",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -5079,11 +5277,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2010EM4643/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2010EM4643/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8129/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8129/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8129",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8132",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8131",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8130",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2010EM4643",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -5179,6 +5397,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8129",
+          "2025PK8132",
+          "2025PK8131",
+          "2025PK8130",
           "2010EM4643",
           "2010EM4642",
           "2010EM4633",
@@ -5189,12 +5411,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "3",
             "box": ""
           }
         ],
@@ -5380,7 +5602,7 @@
         "assets": [
           "2019LU1142"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -5401,11 +5623,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG3569/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG3569/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8111/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8111/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8111",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8114",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8113",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8112",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG3569",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -5523,6 +5765,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8111",
+          "2025PK8114",
+          "2025PK8113",
+          "2025PK8112",
           "2012FG3569",
           "2012FG3602",
           "2012FG7872",
@@ -5535,62 +5781,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "005",
-              "id": "THES409943"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "005",
-              "id": "THES409943"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "005",
-              "id": "THES409943"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "005",
-              "id": "THES409943"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "005",
-              "id": "THES409943"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "005",
-              "id": "THES409943"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "9",
             "box": ""
           }
         ],
@@ -5983,7 +6229,7 @@
           "2019LV9491",
           "2019LV8463"
         ],
-        "recordModificationDate": "2025-08-06",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -6004,11 +6250,36 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2010EJ5172/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2010EJ5172/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8115/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8115/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8115",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8119",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8118",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8117",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8116",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2010EJ5172",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -6191,6 +6462,11 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8115",
+          "2025PK8119",
+          "2025PK8118",
+          "2025PK8117",
+          "2025PK8116",
           "2010EJ5172",
           "2010EJ5173",
           "2010EJ5171",
@@ -6216,62 +6492,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "002",
-              "id": "THES404010"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "6",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES404010"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "6",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES404010"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "6",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES404010"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "6",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES404010"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "6",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES404010"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "6",
             "box": ""
           }
         ],
@@ -6654,7 +6930,7 @@
           "2019LW3673",
           "2019LV8958"
         ],
-        "recordModificationDate": "2025-08-06",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -6675,11 +6951,26 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EW5949/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EW5949/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8121/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8121/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8121",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8123",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8122",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EW5949",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -6783,6 +7074,9 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8121",
+          "2025PK8123",
+          "2025PK8122",
           "2011EW5949",
           "2011EW5977",
           "2011EW5948",
@@ -6793,12 +7087,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "001",
-              "id": "THES399640"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "2",
             "box": ""
           }
         ],
@@ -6986,7 +7280,7 @@
           "2019LW9074",
           "2019LW1993"
         ],
-        "recordModificationDate": "2025-08-06",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -7007,11 +7301,36 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2010EJ5165/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2010EJ5165/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8068/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8068/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8068",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8072",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8071",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8070",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8069",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2010EJ5165",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -7190,6 +7509,11 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8068",
+          "2025PK8072",
+          "2025PK8071",
+          "2025PK8070",
+          "2025PK8069",
           "2010EJ5165",
           "2010EJ5169",
           "2010EJ5168",
@@ -7215,62 +7539,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "7",
             "box": ""
           }
         ],
@@ -7554,7 +7878,7 @@
           "2019LW3330",
           "2019LW1034"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -7575,11 +7899,36 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG3554/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG3554/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8073/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8073/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8073",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8077",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8076",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8075",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8074",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG3554",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -7698,6 +8047,11 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8073",
+          "2025PK8077",
+          "2025PK8076",
+          "2025PK8075",
+          "2025PK8074",
           "2012FG3554",
           "2012FG3558",
           "2012FG3562",
@@ -7711,62 +8065,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "8",
             "box": ""
           }
         ],
@@ -8042,7 +8396,7 @@
           "2019LW1035",
           "2019LW0769"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -8063,11 +8417,41 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG3552/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG3552/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8078/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8078/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8078",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8083",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8082",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8081",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8079",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8084",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG3552",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -8176,6 +8560,12 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8078",
+          "2025PK8083",
+          "2025PK8082",
+          "2025PK8081",
+          "2025PK8079",
+          "2025PK8084",
           "2012FG3552",
           "2012FG7875",
           "2012FG7887",
@@ -8187,62 +8577,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "5",
+            "case": "CA011",
+            "shelf": "1",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "5",
+            "case": "CA011",
+            "shelf": "1",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "5",
+            "case": "CA011",
+            "shelf": "1",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "5",
+            "case": "CA011",
+            "shelf": "1",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "5",
+            "case": "CA011",
+            "shelf": "1",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "5",
+            "case": "CA011",
+            "shelf": "1",
             "box": ""
           }
         ],
@@ -8524,7 +8914,7 @@
           "2019LW0111",
           "2019LV8957"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -8545,11 +8935,36 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG3551/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG3551/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8085/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8085/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8085",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8089",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8088",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8087",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8086",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG3551",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -8668,6 +9083,11 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8085",
+          "2025PK8089",
+          "2025PK8088",
+          "2025PK8087",
+          "2025PK8086",
           "2012FG3551",
           "2012FG3546",
           "2012FG3553",
@@ -8681,62 +9101,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "3",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "3",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "3",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "3",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "3",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "3",
             "box": ""
           }
         ],
@@ -9018,7 +9438,7 @@
           "2019LW0283",
           "2019LV8692"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -9039,11 +9459,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG3547/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG3547/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8090/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8090/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8090",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8093",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8092",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8091",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG3547",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -9162,6 +9602,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8090",
+          "2025PK8093",
+          "2025PK8092",
+          "2025PK8091",
           "2012FG3547",
           "2012FG3548",
           "2012FG3549",
@@ -9175,62 +9619,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB35/MB2",
-            "shelf": "4",
+            "case": "CA012",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB35/MB2",
-            "shelf": "4",
+            "case": "CA012",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB35/MB2",
-            "shelf": "4",
+            "case": "CA012",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB35/MB2",
-            "shelf": "4",
+            "case": "CA012",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB35/MB2",
-            "shelf": "4",
+            "case": "CA012",
+            "shelf": "8",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB35/MB2",
-            "shelf": "4",
+            "case": "CA012",
+            "shelf": "8",
             "box": ""
           }
         ],
@@ -9495,7 +9939,7 @@
           "2019LW6405",
           "2019LW1951"
         ],
-        "recordModificationDate": "2025-08-06",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -9516,11 +9960,36 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG7880/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG7880/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8094/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8094/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8094",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8095",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8098",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8097",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8096",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG7880",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -9637,6 +10106,11 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8094",
+          "2025PK8095",
+          "2025PK8098",
+          "2025PK8097",
+          "2025PK8096",
           "2012FG7880",
           "2012FG3550",
           "2012FG7884",
@@ -9648,62 +10122,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "9",
             "box": ""
           },
           {
             "current": {
-              "text": "CNMT",
-              "id": "THES49205"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "9",
             "box": ""
           }
         ],
@@ -9953,7 +10427,7 @@
           "2019LW8707",
           "2019LW3331"
         ],
-        "recordModificationDate": "2025-08-13",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -9974,11 +10448,46 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG7870/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG7870/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8099/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8099/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8099",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8101",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8105",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8104",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8103",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8102",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8100",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG7870",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -10091,6 +10600,13 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8099",
+          "2025PK8101",
+          "2025PK8105",
+          "2025PK8104",
+          "2025PK8103",
+          "2025PK8102",
+          "2025PK8100",
           "2012FG7870",
           "2012FG3621",
           "2012FG7903",
@@ -10102,62 +10618,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA012",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA012",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA012",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA012",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA012",
+            "shelf": "7",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA012",
+            "shelf": "7",
             "box": ""
           }
         ],
@@ -10583,7 +11099,7 @@
           "2019LT7976",
           "2019LW3538"
         ],
-        "recordModificationDate": "2025-08-26",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -10604,11 +11120,36 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG7911/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG7911/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8106/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8106/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8106",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8110",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8109",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8108",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PK8107",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG7911",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -10721,6 +11262,11 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8106",
+          "2025PK8110",
+          "2025PK8109",
+          "2025PK8108",
+          "2025PK8107",
           "2012FG7911",
           "2012FG7907",
           "2012FG3574",
@@ -10732,62 +11278,62 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA011",
+            "shelf": "4",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA011",
+            "shelf": "4",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA011",
+            "shelf": "4",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA011",
+            "shelf": "4",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA011",
+            "shelf": "4",
             "box": ""
           },
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "2",
+            "case": "CA011",
+            "shelf": "4",
             "box": ""
           }
         ],
@@ -11176,7 +11722,7 @@
           "2019LW4651",
           "2019LW2336"
         ],
-        "recordModificationDate": "2025-08-26",
+        "recordModificationDate": "2026-01-21",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -11197,14 +11743,59 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2009CC6209/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2009CC6209/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2026PL7527/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2026PL7527/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
             {
+              "assetRef": "2026PL7527",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
               "assetRef": "2009CC6209",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2026PL7528",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2026PL7533",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2026PL7535",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2026PL7534",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2026PL7532",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2026PL7531",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2026PL7530",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2026PL7529",
+              "copyright": "© Victoria and Albert Museum, London",
               "sensitiveImage": false
             }
           ]
@@ -11281,7 +11872,16 @@
           "id": "THES48599"
         },
         "images": [
-          "2009CC6209"
+          "2026PL7527",
+          "2009CC6209",
+          "2026PL7528",
+          "2026PL7533",
+          "2026PL7535",
+          "2026PL7534",
+          "2026PL7532",
+          "2026PL7531",
+          "2026PL7530",
+          "2026PL7529"
         ],
         "imageResolution": "high",
         "galleryLocations": [
@@ -11297,11 +11897,11 @@
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384015"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WW",
             "shelf": "",
             "box": ""
           }
@@ -11514,7 +12114,7 @@
           "2025PC5588",
           "2019MF2626"
         ],
-        "recordModificationDate": "2025-08-29",
+        "recordModificationDate": "2026-01-22",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -11535,11 +12135,56 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2010EA7448/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2010EA7448/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PH8689/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PH8689/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PH8689",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8672",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1008",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8682",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1020",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1014",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8675",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8665",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8664",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2010EA7448",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -11643,6 +12288,15 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PH8689",
+          "2025PH8672",
+          "2025PJ1008",
+          "2025PH8682",
+          "2025PJ1020",
+          "2025PJ1014",
+          "2025PH8675",
+          "2025PH8665",
+          "2025PH8664",
           "2010EA7448",
           "2009CR4427",
           "2009CR4420",
@@ -11653,12 +12307,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "6",
             "box": ""
           }
         ],
@@ -11911,7 +12565,7 @@
           "2017KE1801",
           "2019LV9755"
         ],
-        "recordModificationDate": "2025-08-26",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -11932,11 +12586,51 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2010EA7448/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2010EA7448/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PH8680/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PH8680/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PH8680",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8664",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8672",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1012",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1007",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8702",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8695",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8688",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2010EA7448",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -12040,6 +12734,14 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PH8680",
+          "2025PH8664",
+          "2025PH8672",
+          "2025PJ1012",
+          "2025PJ1007",
+          "2025PH8702",
+          "2025PH8695",
+          "2025PH8688",
           "2010EA7448",
           "2009CR4427",
           "2009CR4420",
@@ -12050,42 +12752,42 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "6",
             "box": ""
           },
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "6",
             "box": ""
           },
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "6",
             "box": ""
           },
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA011",
+            "shelf": "6",
             "box": ""
           }
         ],
@@ -12355,7 +13057,7 @@
           "2019LU6837",
           "2019LW1302"
         ],
-        "recordModificationDate": "2025-08-26",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -12376,11 +13078,61 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2010EA7448/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2010EA7448/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PH8683/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PH8683/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PH8683",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8666",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8723",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8692",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1010",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8676",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1025",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1021",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1016",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8667",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2010EA7448",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -12495,6 +13247,16 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PH8683",
+          "2025PH8666",
+          "2025PH8723",
+          "2025PH8692",
+          "2025PJ1010",
+          "2025PH8676",
+          "2025PJ1025",
+          "2025PJ1021",
+          "2025PJ1016",
+          "2025PH8667",
           "2010EA7448",
           "2009CR4435",
           "2009CR4361",
@@ -12505,12 +13267,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "4",
             "box": ""
           }
         ],
@@ -12755,7 +13517,7 @@
           "2017KE1821",
           "2019LT9191"
         ],
-        "recordModificationDate": "2025-08-26",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -12776,11 +13538,66 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2010EA7448/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2010EA7448/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PH8681/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PH8681/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PH8681",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8723",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8666",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8700",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8717",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1015",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ1009",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8713",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8706",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8690",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PH8673",
+              "copyright": "© Victoria & Albert Museum",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2010EA7448",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -12904,6 +13721,17 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PH8681",
+          "2025PH8723",
+          "2025PH8666",
+          "2025PH8700",
+          "2025PH8717",
+          "2025PJ1015",
+          "2025PJ1009",
+          "2025PH8713",
+          "2025PH8706",
+          "2025PH8690",
+          "2025PH8673",
           "2010EA7448",
           "2009CR4435",
           "2009CR4361",
@@ -12918,42 +13746,42 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "4",
             "box": ""
           },
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "4",
             "box": ""
           },
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "4",
             "box": ""
           },
           {
             "current": {
-              "text": "UpSmallStudio",
-              "id": "THES393032"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
+            "case": "CA012",
+            "shelf": "4",
             "box": ""
           }
         ],
@@ -13223,7 +14051,7 @@
           "2019LW3329",
           "2019LW0380"
         ],
-        "recordModificationDate": "2025-08-26",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -13346,12 +14174,12 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
-            "shelf": "1",
+            "case": "CA011",
+            "shelf": "3",
             "box": ""
           }
         ],
@@ -13518,7 +14346,7 @@
         "assets": [
           "2019LU2137"
         ],
-        "recordModificationDate": "2025-09-02",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -13641,11 +14469,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CAGE",
-              "id": "THES49689"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "CB27/MB2",
+            "case": "CA012",
             "shelf": "1",
             "box": ""
           }
@@ -13813,7 +14641,7 @@
         "assets": [
           "2019LW6990"
         ],
-        "recordModificationDate": "2025-09-02",
+        "recordModificationDate": "2026-01-19",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -13834,11 +14662,31 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2011EU7000/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2011EU7000/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PJ8522/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PJ8522/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PJ8522",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8523",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8525",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8524",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2011EU7000",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -13924,6 +14772,10 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PJ8522",
+          "2025PJ8523",
+          "2025PJ8525",
+          "2025PJ8524",
           "2011EU7000",
           "2011EU7001"
         ],
@@ -13931,21 +14783,21 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "002",
-              "id": "THES343405"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES343405"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -14174,7 +15026,7 @@
         "assets": [
           "2019MF3201"
         ],
-        "recordModificationDate": "2025-09-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -14321,11 +15173,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "001",
-              "id": "THES343404"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -14515,7 +15367,7 @@
           "WHOLE"
         ],
         "assets": [],
-        "recordModificationDate": "2025-09-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -14629,11 +15481,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "002",
-              "id": "THES343398"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -14797,7 +15649,7 @@
           "2025PH4646",
           "2025PH4644"
         ],
-        "recordModificationDate": "2025-09-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -14818,11 +15670,41 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FG3591/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2012FG3591/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PJ3963/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PJ3963/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PJ3963",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3968",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3967",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3966",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3965",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3964",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2012FG3591",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -14895,6 +15777,12 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PJ3963",
+          "2025PJ3968",
+          "2025PJ3967",
+          "2025PJ3966",
+          "2025PJ3965",
+          "2025PJ3964",
           "2012FG3591",
           "2012FJ2649"
         ],
@@ -14902,11 +15790,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "CNSC",
-              "id": "THES49201"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -15075,8 +15963,10 @@
         "aspects": [
           "WHOLE"
         ],
-        "assets": [],
-        "recordModificationDate": "2025-09-09",
+        "assets": [
+          "2025PH7663"
+        ],
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -15096,8 +15986,48 @@
             "href": "https://collections.vam.ac.uk/item/O157689/"
           }
         },
-        "images": null,
-        "see_also": null
+        "images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PJ8775/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PJ8775/",
+          "_alt_iiif_image": [],
+          "imageResolution": "high",
+          "_images_meta": [
+            {
+              "assetRef": "2025PJ8775",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8779",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8778",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8777",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8776",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8780",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            }
+          ]
+        },
+        "see_also": {
+          "_iiif_pres": "https://iiif.vam.ac.uk/collections/O157689/manifest.json",
+          "_alt_iiif_pres": []
+        }
       },
       "record": {
         "systemNumber": "O157689",
@@ -15178,13 +16108,20 @@
           "text": "MET",
           "id": "THES48599"
         },
-        "images": [],
+        "images": [
+          "2025PJ8775",
+          "2025PJ8779",
+          "2025PJ8778",
+          "2025PJ8777",
+          "2025PJ8776",
+          "2025PJ8780"
+        ],
         "imageResolution": "high",
         "galleryLocations": [
           {
             "current": {
-              "text": "002",
-              "id": "THES343405"
+              "text": "FLR",
+              "id": "THES404791"
             },
             "free": "",
             "case": "",
@@ -15193,8 +16130,8 @@
           },
           {
             "current": {
-              "text": "N",
-              "id": "THES296996"
+              "text": "002",
+              "id": "THES343509"
             },
             "free": "",
             "case": "",
@@ -15465,7 +16402,7 @@
         "assets": [
           "2019MF8768"
         ],
-        "recordModificationDate": "2025-09-09",
+        "recordModificationDate": "2026-01-16",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -15485,8 +16422,68 @@
             "href": "https://collections.vam.ac.uk/item/O158073/"
           }
         },
-        "images": null,
-        "see_also": null
+        "images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PJ8781/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PJ8781/",
+          "_alt_iiif_image": [],
+          "imageResolution": "high",
+          "_images_meta": [
+            {
+              "assetRef": "2025PJ8781",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8789",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8788",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8787",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8786",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8785",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8784",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8783",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8782",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ8790",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            }
+          ]
+        },
+        "see_also": {
+          "_iiif_pres": "https://iiif.vam.ac.uk/collections/O158073/manifest.json",
+          "_alt_iiif_pres": []
+        }
       },
       "record": {
         "systemNumber": "O158073",
@@ -15571,26 +16568,37 @@
           "text": "MET",
           "id": "THES48599"
         },
-        "images": [],
+        "images": [
+          "2025PJ8781",
+          "2025PJ8789",
+          "2025PJ8788",
+          "2025PJ8787",
+          "2025PJ8786",
+          "2025PJ8785",
+          "2025PJ8784",
+          "2025PJ8783",
+          "2025PJ8782",
+          "2025PJ8790"
+        ],
         "imageResolution": "high",
         "galleryLocations": [
           {
             "current": {
-              "text": "004",
-              "id": "THES344532"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "004",
-              "id": "THES344532"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -15678,6 +16686,45 @@
             },
             "part": "",
             "note": ""
+          },
+          {
+            "dimension": "Height",
+            "value": "92.3",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "frame",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "104.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "frame",
+            "note": ""
+          },
+          {
+            "dimension": "Depth",
+            "value": "7.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "frame",
+            "note": ""
           }
         ],
         "dimensionsNote": "",
@@ -15745,9 +16792,12 @@
           "frame"
         ],
         "assets": [
+          "2025PK5365",
+          "2025PK5364",
+          "2025PK5047",
           "2019MF8854"
         ],
-        "recordModificationDate": "2025-09-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -15768,11 +16818,46 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2009CC6188/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2009CC6188/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PJ3813/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PJ3813/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PJ3813",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3825",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3824",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3817",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3816",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3815",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
+            {
+              "assetRef": "2025PJ3814",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2009CC6188",
               "copyright": "© Victoria and Albert Museum, London/ © the Rosalinde & Arthur Gilbert Collection, on loan to the Victoria and Albert Museum, London ",
@@ -15857,27 +16942,34 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PJ3813",
+          "2025PJ3825",
+          "2025PJ3824",
+          "2025PJ3817",
+          "2025PJ3816",
+          "2025PJ3815",
+          "2025PJ3814",
           "2009CC6188"
         ],
         "imageResolution": "high",
         "galleryLocations": [
           {
             "current": {
-              "text": "CNSC",
-              "id": "THES49201"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "CNSC",
-              "id": "THES49201"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -16146,8 +17238,11 @@
           "picture",
           "frame"
         ],
-        "assets": [],
-        "recordModificationDate": "2025-09-09",
+        "assets": [
+          "2025PH7610",
+          "2025PH7595"
+        ],
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -16291,21 +17386,21 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "001",
-              "id": "THES343404"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "P",
-              "id": "THES296997"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -16536,7 +17631,7 @@
           "2025PH4642",
           "2025PH4641"
         ],
-        "recordModificationDate": "2025-09-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -16679,11 +17774,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "001",
-              "id": "THES343430"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -16847,7 +17942,7 @@
           "2025PH0480",
           "2019MF3192"
         ],
-        "recordModificationDate": "2025-09-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -16995,21 +18090,21 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "001",
-              "id": "THES343404"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "001",
-              "id": "THES343404"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           }
@@ -17216,7 +18311,7 @@
           "2025PH3822",
           "2019LW1030"
         ],
-        "recordModificationDate": "2025-09-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -17363,141 +18458,141 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA013",
             "shelf": "",
             "box": ""
           }
@@ -18088,7 +19183,7 @@
           "2019LW3684",
           "2019LV8465"
         ],
-        "recordModificationDate": "2025-07-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -18223,141 +19318,141 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "013",
-              "id": "THES409766"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           }
@@ -18901,7 +19996,7 @@
           "2019LT7975",
           "2019LV9756"
         ],
-        "recordModificationDate": "2025-07-09",
+        "recordModificationDate": "2026-01-20",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }

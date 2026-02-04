@@ -1,0 +1,38 @@
+{
+  "_comment": "Wall Configuration - Adjust positions and rotations freely. Balustrades and thumbnails move relative to their wall.",
+
+  "centerWall": {
+    "_comment": "Position offsets are added to calculated base position. Rotation in radians.",
+    "position": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "y": 0 },
+    "balustrade": {
+      "_comment": "Offset from wall center in local coordinates (Y=down/up, Z=front/back)",
+      "offsetY": -0.1,
+      "offsetZ": 0.3
+    }
+  },
+
+  "leftWall": {
+    "position": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "y": 0.393 },
+    "balustrade": {
+      "offsetY": -0.1,
+      "offsetZ": 0.3
+    }
+  },
+
+  "rightWall": {
+    "position": { "x": -1, "y": 0, "z": 0 },
+    "rotation": { "y": -0.393 },
+    "balustrade": {
+      "offsetY": -0.3,
+      "offsetZ": 0.3
+    }
+  },
+
+  "thumbnails": {
+    "_comment": "Global thumbnail settings",
+    "baseSize": 0.5,
+    "zOffset": 0.02
+  }
+}
