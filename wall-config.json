@@ -45,7 +45,7 @@
         "intensity": 0.7
       },
       "centerWall": {
-        "_comment": "Spotlight aimed at center wall",
+        "_comment": "Spotlight aimed at Centre Wall",
         "enabled": true,
         "intensity": 25,
         "position": { "x": 0, "y": 2, "z": 2 },
@@ -57,10 +57,10 @@
       "leftWall": {
         "_comment": "Spotlight aimed at left wall. Angle in radians, penumbra 0-1 for soft edges",
         "enabled": true,
-        "intensity": 50,
+        "intensity": 40,
         "position": { "x": -2, "y": 2, "z": 2 },
         "target": { "x": -6, "y": 1.5, "z": -2 },
-        "angle": 0.8,
+        "angle": 1,
         "penumbra": 0.8,
         "castShadow": true
       },
