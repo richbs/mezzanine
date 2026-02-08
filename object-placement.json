@@ -3,7 +3,7 @@
     { "id": "L27", "x": -2.4, "y": 1, "scale": 0.7, "museumNumber": "LOAN:GILBERT.806-2008" , "cutOutimage": "LG.703-and-806-to-810-2008.png"},
     { "id": "L28", "x": -1.72, "y": 1, "scale": 0.7, "museumNumber": "LOAN:GILBERT.807-2008" , "cutOutimage": "LG.703-and-806-to-810-2008.png"},
     { "id": "L26", "x": -1.2, "y": 1, "scale": 0.7, "museumNumber": "LOAN:GILBERT.973-2008" , "cutOutimage": "LG.973-and-984-2008.png"},
-    { "id": "L7", "x": 10, "y": 0.25, "scale": 2.5, "museumNumber": "LOAN:GILBERT.180-2008" , "cutOutimage": "LG.180-2008.png"},
+    { "id": "L7", "x": 0, "y": 0.25, "scale": 2.5, "museumNumber": "LOAN:GILBERT.180-2008" , "cutOutimage": "LG.180-2008.png"},
     { "id": "L33", "x": 0.95, "y": 0.0, "scale": 0.525, "museumNumber": "LOAN:GILBERT.984-2008" , "cutOutimage": "LG.973-and-984-2008.png"},
     { "id": "L31", "x": 1.45, "y": 0.0, "scale": 0.525, "museumNumber": "LOAN:GILBERT.810-2008" , "cutOutimage": "LG.703-and-806-to-810-2008.png"},
     { "id": "L8", "x": 0.45, "y": 1.2, "scale": 0.525, "museumNumber": "LOAN:GILBERT.703-2008" , "cutOutimage": "LG.703-and-806-to-810-2008.png"},
@@ -43,20 +43,20 @@
   ],
 
   "centerWall": [
-    { "id": "C1", "x": -2.25, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.878:1, 2-2008" , "cutOutimage": "LG.878-2008.png"},
-    { "id": "C2", "x": -1.75, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.1067-2008" , "cutOutimage": "LG.1067-2008.png"},
-    { "id": "C3", "x": -1.25, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.186-2008" , "cutOutimage": "LG.186-2008.png"},
-    { "id": "C4", "x": -0.75, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.1074-2008" , "cutOutimage": "LG.1074-2008.png"},
-    { "id": "C5", "x": -0.25, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.1014-2008" , "cutOutimage": "LG.1014-2008.png"},
-    { "id": "C6", "x": 0.25, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.1068:1, 2-2008" , "cutOutimage": "LG.1068-2008.png"},
-    { "id": "C7", "x": 0.75, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.124:1, 2-2008" , "cutOutimage": "LG.124-2008.png"},
-    { "id": "C8", "x": 1.25, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.177:1, 2-2008" , "cutOutimage": "LG.177-2008.png"},
-    { "id": "C9", "x": 1.75, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.123-2008" , "cutOutimage": "LG.123-2008.png"},
-    { "id": "C10", "x": 2.25, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.936:1, 2-2008", "cutOutimage": "LG.936-2008.png" }
+    { "id": "C1", "x": -2.5, "y": 0.5, "scale": 1, "museumNumber": "LOAN:GILBERT.878:1, 2-2008" , "cutOutimage": "LG.878-2008.png"},
+    { "id": "C2", "x": -2, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.1067-2008" , "cutOutimage": "LG.1067-2008.png"},
+    { "id": "C3", "x": -1.5, "y": 0.5, "scale": 1, "museumNumber": "LOAN:GILBERT.186-2008" , "cutOutimage": "LG.186-2008.png"},
+    { "id": "C4", "x": -1, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.1074-2008" , "cutOutimage": "LG.1074-2008.png"},
+    { "id": "C5", "x": -0.5, "y": 0.4, "scale": 1.1, "museumNumber": "LOAN:GILBERT.1014-2008" , "cutOutimage": "LG.1014-2008.png"},
+    { "id": "C6", "x": 0.25, "y": 0.4, "scale": 1.5, "museumNumber": "LOAN:GILBERT.1068:1, 2-2008" , "cutOutimage": "LG.1068-2008.png"},
+    { "id": "C7", "x": 1, "y": 0.5, "scale": 0.75, "museumNumber": "LOAN:GILBERT.124:1, 2-2008" , "cutOutimage": "LG.124-2008.png"},
+    { "id": "C8", "x": 1, "y": 0.2, "scale": 0.75, "museumNumber": "LOAN:GILBERT.177:1, 2-2008" , "cutOutimage": "LG.177-2008.png"},
+    { "id": "C9", "x": 1.7, "y": 0.4, "scale": 1.2, "museumNumber": "LOAN:GILBERT.123-2008" , "cutOutimage": "LG.123-2008.png"},
+    { "id": "C10", "x": 2.5, "y": 0.45, "scale": 0.8, "museumNumber": "LOAN:GILBERT.936:1, 2-2008", "cutOutimage": "LG.936-2008.png" }
   ],
 
   "rightWall": [
-    { "id": "R1", "x": 1.2, "y": 1.0, "scale": 0.9, "museumNumber": "LOAN:GILBERT.827:1-14-2008" , "cutOutimage": "LG.827-2008.png"},
-    { "id": "R2", "x": 1.2, "y": 0.0, "scale": 0.9, "museumNumber": "LOAN:GILBERT.828:1-14-2008", "cutOutimage": "LG.828-2008.png" }
+    { "id": "R1", "x": -1.15, "y": 0.5, "scale": 2.2, "museumNumber": "LOAN:GILBERT.827:1-14-2008" , "cutOutimage": "LG.827-2008.png"},
+    { "id": "R2", "x": 1.4, "y": 0.5, "scale": 2.2, "museumNumber": "LOAN:GILBERT.828:1-14-2008", "cutOutimage": "LG.828-2008.png" }
   ]
 }

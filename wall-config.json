@@ -36,7 +36,7 @@
     "thumbnails": {
       "_comment": "Global thumbnail settings",
       "baseSize": 0.5,
-      "zOffset": 0.05
+      "zOffset": 0.02
     },
 
     "lighting": {
@@ -50,28 +50,28 @@
         "intensity": 25,
         "position": { "x": 0, "y": 2, "z": 2 },
         "target": { "x": 0, "y": 1.5, "z": -2 },
-        "angle": 0.8,
+        "angle": 0.5,
         "penumbra": 0.8,
         "castShadow": true
       },
       "leftWall": {
         "_comment": "Spotlight aimed at left wall. Angle in radians, penumbra 0-1 for soft edges",
         "enabled": true,
-        "intensity": 15,
+        "intensity": 50,
         "position": { "x": -2, "y": 2, "z": 2 },
-        "target": { "x": -4, "y": 1.5, "z": -2 },
-        "angle": 0.6,
+        "target": { "x": -6, "y": 1.5, "z": -2 },
+        "angle": 0.8,
         "penumbra": 0.8,
         "castShadow": true
       },
       "rightWall": {
         "_comment": "Spotlight aimed at right wall",
         "enabled": true,
-        "intensity": 15,
-        "position": { "x": 2, "y": 2, "z": 2 },
-        "target": { "x": 4, "y": 1.5, "z": -2 },
-        "angle": 0.6,
-        "penumbra": 0.8,
+        "intensity": 40,
+        "position": { "x": 3, "y": 2, "z": 2 },
+        "target": { "x": 6, "y": 1.5, "z": -2 },
+        "angle": 1,
+        "penumbra": 0.5,
         "castShadow": true
       }
     }
