@@ -60,9 +60,9 @@
         "enabled": true,
         "intensity": 30,
         "position": { "x": -2, "y": 2, "z": 2 },
-        "target": { "x": -6, "y": 1.5, "z": -2 },
+        "target": { "x": -6, "y": 2, "z": -2 },
         "angle": 0.7,
-        "penumbra": 0.8,
+        "penumbra": 0.5,
         "castShadow": true
       },
       "rightWall": {
