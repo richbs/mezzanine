@@ -1,5 +1,6 @@
   {
     "_comment": "Wall Configuration - Adjust positions and rotations freely. Balustrades and thumbnails move relative to their wall.",
+    "debugMode": false,
 
     "centerWall": {
       "_comment": "Position offsets are added to calculated base position. Rotation in radians.",
