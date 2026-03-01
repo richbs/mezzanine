@@ -47,7 +47,7 @@
     {"museumNumber":"LOAN:GILBERT.936:1, 2-2008","id":"C10","x":2.5,"y":0.45,"scale":0.8,"cutOutimage":"LG.936-2008.png"}
   ],
   "rightWall": [
-    {"museumNumber":"LOAN:GILBERT.827:1-14-2008","id":"R1","x":-1.15,"y":0.5,"scale":2.2,"cutOutimage":"LG.827-2008.png"},
-    {"museumNumber":"LOAN:GILBERT.828:1-14-2008","id":"R2","x":1.4,"y":0.5,"scale":2.2,"cutOutimage":"LG.828-2008.png"}
+    {"museumNumber":"LOAN:GILBERT.827:1-14-2008","id":"R1","x":-1.17,"y":0.5,"scale":2.2,"cutOutimage":"LG.827-2008.png"},
+    {"museumNumber":"LOAN:GILBERT.828:1-14-2008","id":"R2","x":1.43,"y":0.5,"scale":2.2,"cutOutimage":"LG.828-2008.png"}
   ]
 }
