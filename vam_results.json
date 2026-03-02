@@ -40,10 +40,27 @@
         "systemNumber": "O156329",
         "accessionNumber": "LOAN:GILBERT.1007-2008",
         "objectType": "Goblet",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
-        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, ca. 1940; from a twelve-piece set",
-        "artistMakerPerson": [],
+        "titles": [
+          {
+            "title": "Goblet",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts bought these goblets from Tiffany & Co. Famed for being generous hosts and having dinners most nights of the week, the Gilberts served their guests on gold tableware on their 50th (gold) wedding anniversary. The original design dates to 1925 and was only ever produced in 18 karat gold. The engraved initial K remains unidentified.\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008. \r\n",
+        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, ca. 1925; from a twelve-piece set",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "",
+              "id": ""
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": "Note in Tiffany Archive ledger from 1925 names the workman as 'Stenson' or 'Stensin'."
+          }
+        ],
         "artistMakerOrganisations": [
           {
             "name": {
@@ -128,9 +145,9 @@
         "productionDates": [
           {
             "date": {
-              "text": "20th century",
-              "earliest": "1900-01-01",
-              "latest": "2000-12-31"
+              "text": "1925",
+              "earliest": "1925-01-01",
+              "latest": "1925-12-31"
             },
             "association": {
               "text": "made",
@@ -292,9 +309,9 @@
             "note": "marks on base, 'M' corresponds to mark used during the directorship of John C. Moore II, (ca.1907-1947)"
           }
         ],
-        "objectHistory": "",
+        "objectHistory": " In consultation with Samantha Citronella (Assistant Archivist, Tiffany Archives, Tiffany & Co.) in February 2026, the pattern number on the base of the goblets, “20631”, was used to find corresponding records including ledger entries and a Holloware Blueprint (design drawing).  These archival records show that the goblets were made in 1925 under the Directorship of Edward C. Moore (signified by the ‘M’ mark), and the name of the workman is listed, ‘Stenson’ or 'Stensin'.\n",
         "historicalContext": "",
-        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, ca. 1940; one of six",
+        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co., gold, 1925; one of six",
         "bibliographicReferences": [],
         "production": "",
         "productionType": {
@@ -359,7 +376,7 @@
         "assets": [
           "2019LU9124"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -406,10 +423,27 @@
         "systemNumber": "O156330",
         "accessionNumber": "LOAN:GILBERT.1008-2008",
         "objectType": "Goblet",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
-        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, ca. 1940; from a twelve-piece set",
-        "artistMakerPerson": [],
+        "titles": [
+          {
+            "title": "Goblet",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts bought these goblets from Tiffany & Co. Famed for being generous hosts and having dinners most nights of the week, the Gilberts served their guests on gold tableware on their 50th (gold) wedding anniversary. The original design dates to 1925 and was only ever produced in 18 karat gold. The engraved initial K remains unidentified.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
+        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, 1925; from a twelve-piece set",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "",
+              "id": ""
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": "Tiffany workman, ‘Stenson’ or ‘Stensin’"
+          }
+        ],
         "artistMakerOrganisations": [
           {
             "name": {
@@ -494,9 +528,9 @@
         "productionDates": [
           {
             "date": {
-              "text": "20th century",
-              "earliest": "1900-01-01",
-              "latest": "2000-12-31"
+              "text": "1925",
+              "earliest": "1925-01-01",
+              "latest": "1925-12-31"
             },
             "association": {
               "text": "made",
@@ -665,9 +699,9 @@
             "note": "marks on base, 'M' corresponds to mark used during the directorship of John C. Moore II, (ca.1907-1947)"
           }
         ],
-        "objectHistory": "",
+        "objectHistory": "In consultation with Samantha Citronella (Assistant Archivist, Tiffany Archives, Tiffany & Co.) the pattern number on the base of the goblets, “20631”, was used to find corresponding records including ledger entries and a Holloware Blueprint (design drawing).  These archival records show that the goblets were made in 1925 under the Directorship of Edward C. Moore (signified by the ‘M’ mark), and the name of the workman is listed, ‘Stenson’ or ‘Stensin’.",
         "historicalContext": "",
-        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, ca. 1940; from a 12-piece set",
+        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, 1925; from a 12-piece set",
         "bibliographicReferences": [],
         "production": "",
         "productionType": {
@@ -732,7 +766,7 @@
         "assets": [
           "2019LV9838"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -780,8 +814,8 @@
         "accessionNumber": "LOAN:GILBERT.1009-2008",
         "objectType": "Goblet",
         "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
-        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, ca. 1940; from a twelve-piece set",
+        "summaryDescription": "The Gilberts bought these goblets from Tiffany & Co. Famed for being generous hosts and having dinners most nights of the week, the Gilberts served their guests on gold tableware on their 50th (gold) wedding anniversary. The original design dates to 1925 and was only ever produced in 18 karat gold. The engraved initial K remains unidentified.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008. \r\n",
+        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, 1925; from a twelve-piece set",
         "artistMakerPerson": [],
         "artistMakerOrganisations": [
           {
@@ -867,9 +901,9 @@
         "productionDates": [
           {
             "date": {
-              "text": "20th century",
-              "earliest": "1900-01-01",
-              "latest": "2000-12-31"
+              "text": "1925",
+              "earliest": "1925-01-01",
+              "latest": "1925-12-31"
             },
             "association": {
               "text": "made",
@@ -1038,9 +1072,9 @@
             "note": "marks on base, 'M' corresponds to mark used during the directorship of John C. Moore II, (ca.1907-1947)"
           }
         ],
-        "objectHistory": "",
+        "objectHistory": "In consultation with Samantha Citronella (Assistant Archivist, Tiffany Archives, Tiffany & Co.) on 19 February 2026, the pattern number on the base of the goblets, “20631”, was used to find corresponding records including ledger entries and a Holloware Blueprint (design drawing).  These archival records show that the goblets were made in 1925 under the Directorship of Edward C. Moore (signified by the ‘M’ mark), and the name of the workman is listed, ‘Stenson’ or ‘Stensin’.",
         "historicalContext": "",
-        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, ca. 1940; from a 12-piece set",
+        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, 1925; from a 12-piece set",
         "bibliographicReferences": [],
         "production": "",
         "productionType": {
@@ -1105,7 +1139,7 @@
         "assets": [
           "2019LT9714"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -1152,10 +1186,27 @@
         "systemNumber": "O156332",
         "accessionNumber": "LOAN:GILBERT.1010-2008",
         "objectType": "Goblet",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
-        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, ca. 1940; from a twelve-piece set",
-        "artistMakerPerson": [],
+        "titles": [
+          {
+            "title": "Goblet",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts bought these goblets from Tiffany & Co. Famed for being generous hosts and having dinners most nights of the week, the Gilberts served their guests on gold tableware on their 50th (gold) wedding anniversary. The original design dates to 1925 and was only ever produced in 18 karat gold. The engraved initial K remains unidentified.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
+        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, 1925; from a twelve-piece set",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "",
+              "id": ""
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": "Tiffany workman, ‘Stenson’ or ‘Stensin’"
+          }
+        ],
         "artistMakerOrganisations": [
           {
             "name": {
@@ -1240,9 +1291,9 @@
         "productionDates": [
           {
             "date": {
-              "text": "20th century",
-              "earliest": "1900-01-01",
-              "latest": "2000-12-31"
+              "text": "1925",
+              "earliest": "1925-01-01",
+              "latest": "1925-12-31"
             },
             "association": {
               "text": "made",
@@ -1411,9 +1462,9 @@
             "note": "marks on base, 'M' corresponds to mark used during the directorship of John C. Moore II, (ca.1907-1947)"
           }
         ],
-        "objectHistory": "",
+        "objectHistory": "In consultation with Samantha Citronella (Assistant Archivist, Tiffany Archives, Tiffany & Co.) on 19 February 2026, the pattern number on the base of the goblets, “20631”, was used to find corresponding records including ledger entries and a Holloware Blueprint (design drawing).  These archival records show that the goblets were made in 1925 under the Directorship of Edward C. Moore (signified by the ‘M’ mark), and the name of the workman is listed, ‘Stenson’ or ‘Stensin’.",
         "historicalContext": "",
-        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, ca. 1940; from a 12-piece set",
+        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, 1925; from a 12-piece set",
         "bibliographicReferences": [],
         "production": "",
         "productionType": {
@@ -1478,7 +1529,7 @@
         "assets": [
           "2019LU2564"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -1525,10 +1576,27 @@
         "systemNumber": "O156333",
         "accessionNumber": "LOAN:GILBERT.1011-2008",
         "objectType": "Goblet",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
-        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, ca. 1940; from a twelve-piece set",
-        "artistMakerPerson": [],
+        "titles": [
+          {
+            "title": "Goblet",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts bought these goblets from Tiffany & Co. Famed for being generous hosts and having dinners most nights of the week, the Gilberts served their guests on gold tableware on their 50th (gold) wedding anniversary. The original design dates to 1925 and was only ever produced in 18 karat gold. The engraved initial K remains unidentified.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008. \r\n",
+        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, 1925; from a twelve-piece set",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "",
+              "id": ""
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": "Tiffany workman, ‘Stenson’ or ‘Stensin’"
+          }
+        ],
         "artistMakerOrganisations": [
           {
             "name": {
@@ -1613,9 +1681,9 @@
         "productionDates": [
           {
             "date": {
-              "text": "20th century",
-              "earliest": "1900-01-01",
-              "latest": "2000-12-31"
+              "text": "1925",
+              "earliest": "1925-01-01",
+              "latest": "1925-12-31"
             },
             "association": {
               "text": "made",
@@ -1784,9 +1852,9 @@
             "note": "marks on base, 'M' corresponds to mark used during the directorship of John C. Moore II, (ca.1907-1947)"
           }
         ],
-        "objectHistory": "",
+        "objectHistory": "In consultation with Samantha Citronella (Assistant Archivist, Tiffany Archives, Tiffany & Co.) on 19 February 2026, the pattern number on the base of the goblets, “20631”, was used to find corresponding records including ledger entries and a Holloware Blueprint (design drawing).  These archival records show that the goblets were made in 1925 under the Directorship of Edward C. Moore (signified by the ‘M’ mark), and the name of the workman is listed, ‘Stenson’ or ‘Stensin’.",
         "historicalContext": "",
-        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, ca. 1940; from a 12-piece set",
+        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, 1925; from a 12-piece set",
         "bibliographicReferences": [],
         "production": "",
         "productionType": {
@@ -1851,7 +1919,7 @@
         "assets": [
           "2019LU9125"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -1898,9 +1966,14 @@
         "systemNumber": "O156334",
         "accessionNumber": "LOAN:GILBERT.1012-2008",
         "objectType": "Goblet",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
-        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, ca. 1940; from a twelve-piece set",
+        "titles": [
+          {
+            "title": "Goblet",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts bought these goblets from Tiffany & Co. Famed for being generous hosts and having dinners most nights of the week, the Gilberts served their guests on gold tableware on their 50th (gold) wedding anniversary. The original design dates to 1925 and was only ever produced in 18 karat gold. The engraved initial K remains unidentified.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008. ",
+        "physicalDescription": "A small goblet with cone-shaped bowl, on a slender curved stem with circular, stepped foot, the bowl engraved with initial ‘k’, gold, Tiffany & Co, 1925; from a twelve-piece set",
         "artistMakerPerson": [],
         "artistMakerOrganisations": [
           {
@@ -1986,9 +2059,9 @@
         "productionDates": [
           {
             "date": {
-              "text": "20th century",
-              "earliest": "1900-01-01",
-              "latest": "2000-12-31"
+              "text": "1925",
+              "earliest": "1925-01-01",
+              "latest": "1925-12-31"
             },
             "association": {
               "text": "made",
@@ -2157,9 +2230,9 @@
             "note": "marks on base, 'M' corresponds to mark used during the directorship of John C. Moore II, (ca.1907-1947)"
           }
         ],
-        "objectHistory": "",
+        "objectHistory": "In consultation with Samantha Citronella (Assistant Archivist, Tiffany Archives, Tiffany & Co.) on 19 February 2026, the pattern number on the base of the goblets, “20631”, was used to find corresponding records including ledger entries and a Holloware Blueprint (design drawing).  These archival records show that the goblets were made in 1925 under the Directorship of Edward C. Moore (signified by the ‘M’ mark), and the name of the workman is listed, ‘Stenson’ or ‘Stensin’.",
         "historicalContext": "",
-        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, ca. 1940; from a 12-piece set",
+        "briefDescription": "Goblet with engraved initial 'k', Tiffany & Co, gold, 1925; from a 12-piece set",
         "bibliographicReferences": [],
         "production": "",
         "productionType": {
@@ -2224,7 +2297,7 @@
         "assets": [
           "2019LW0114"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -2291,8 +2364,13 @@
         "systemNumber": "O156831",
         "accessionNumber": "LOAN:GILBERT.806-2008",
         "objectType": "Plate",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Plate",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Silver dinner plate from a set of thirteen from the Duke of Norfolk service. Each circular with gadrooned border with shells and foliage at intervals, the rim with scrolling border enclosing fishscale, diaperwork, and engraved on opposite sides with a Duke's armorials.",
         "artistMakerPerson": [
           {
@@ -2301,10 +2379,10 @@
               "id": "A8891"
             },
             "association": {
-              "text": "silversmiths",
-              "id": "AAT25323"
+              "text": "maker",
+              "id": "x40240"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -2325,7 +2403,7 @@
             "id": "AAT53224"
           }
         ],
-        "materialsAndTechniques": "Sterling silver, cast or die stamped.",
+        "materialsAndTechniques": "Sterling silver, cast or die stamped",
         "categories": [
           {
             "text": "Containers",
@@ -2610,7 +2688,7 @@
         "assets": [
           "2019LW8551"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -2677,8 +2755,13 @@
         "systemNumber": "O156834",
         "accessionNumber": "LOAN:GILBERT.807-2008",
         "objectType": "Plate",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Plate",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Silver dinner plate from a set of thirteen from the Duke of Norfolk service. Each circular with gadrooned border with shells and foliage at intervals, the rim with scrolling border enclosing fishscale, diaperwork, and engraved on opposite sides with a Duke's armorials.",
         "artistMakerPerson": [
           {
@@ -2687,10 +2770,10 @@
               "id": "A8891"
             },
             "association": {
-              "text": "silversmiths",
-              "id": "AAT25323"
+              "text": "maker",
+              "id": "x40240"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -2711,7 +2794,7 @@
             "id": "AAT53224"
           }
         ],
-        "materialsAndTechniques": "Sterling silver, cast or die stamped.",
+        "materialsAndTechniques": "Sterling silver, cast or die stamped",
         "categories": [
           {
             "text": "Containers",
@@ -2996,7 +3079,7 @@
         "assets": [
           "2019LW3952"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -3063,8 +3146,13 @@
         "systemNumber": "O156836",
         "accessionNumber": "LOAN:GILBERT.808-2008",
         "objectType": "Plate",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Plate",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Silver dinner plate from a set of thirteen from the Duke of Norfolk service. Each circular with gadrooned border with shells and foliage at intervals, the rim with scrolling border enclosing fishscale, diaperwork, and engraved on opposite sides with a Duke's armorials.",
         "artistMakerPerson": [
           {
@@ -3073,10 +3161,10 @@
               "id": "A8891"
             },
             "association": {
-              "text": "silversmiths",
-              "id": "AAT25323"
+              "text": "maker",
+              "id": "x40240"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -3097,7 +3185,7 @@
             "id": "AAT53224"
           }
         ],
-        "materialsAndTechniques": "Sterling silver, cast or die stamped.",
+        "materialsAndTechniques": "Sterling silver, cast or die stamped",
         "categories": [
           {
             "text": "Containers",
@@ -3382,7 +3470,7 @@
         "assets": [
           "2019LV8693"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -3449,8 +3537,13 @@
         "systemNumber": "O156817",
         "accessionNumber": "LOAN:GILBERT.809-2008",
         "objectType": "Plate",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Plate",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Silver dinner plate from a set of thirteen from the Duke of Norfolk service. Each circular with gadrooned border with shells and foliage at intervals, the rim with scrolling border enclosing fishscale, diaperwork, and engraved on opposite sides with a Duke's armorials.",
         "artistMakerPerson": [
           {
@@ -3459,10 +3552,10 @@
               "id": "A8891"
             },
             "association": {
-              "text": "silversmiths",
-              "id": "AAT25323"
+              "text": "maker",
+              "id": "x40240"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -3483,7 +3576,7 @@
             "id": "AAT53224"
           }
         ],
-        "materialsAndTechniques": "Sterling silver, cast or die stamped.",
+        "materialsAndTechniques": "Sterling silver, cast or die stamped",
         "categories": [
           {
             "text": "Containers",
@@ -3768,7 +3861,7 @@
         "assets": [
           "2019LW3674"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -3835,8 +3928,13 @@
         "systemNumber": "O156819",
         "accessionNumber": "LOAN:GILBERT.810-2008",
         "objectType": "Plate",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Plate",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Silver dinner plate from a set of thirteen from the Duke of Norfolk service. Each circular with gadrooned border with shells and foliage at intervals, the rim with scrolling border enclosing fishscale, diaperwork, and engraved on opposite sides with a Duke's armorials.",
         "artistMakerPerson": [
           {
@@ -3845,10 +3943,10 @@
               "id": "A8891"
             },
             "association": {
-              "text": "silversmiths",
-              "id": "AAT25323"
+              "text": "maker",
+              "id": "x40240"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -3869,7 +3967,7 @@
             "id": "AAT53224"
           }
         ],
-        "materialsAndTechniques": "Sterling silver, cast or die stamped.",
+        "materialsAndTechniques": "Sterling silver, cast or die stamped",
         "categories": [
           {
             "text": "Containers",
@@ -4154,7 +4252,7 @@
         "assets": [
           "2019LU6850"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -4221,8 +4319,13 @@
         "systemNumber": "O156818",
         "accessionNumber": "LOAN:GILBERT.703-2008",
         "objectType": "Plate",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Plate",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Silver dinner plate from a set of thirteen from the Duke of Norfolk service. Each circular with gadrooned border with shells and foliage at intervals, the rim with scrolling border enclosing fishscale, diaperwork, and engraved on opposite sides with a Duke's armorials.",
         "artistMakerPerson": [
           {
@@ -4231,10 +4334,10 @@
               "id": "A8891"
             },
             "association": {
-              "text": "silversmiths",
-              "id": "AAT25323"
+              "text": "maker",
+              "id": "x40240"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -4255,7 +4358,7 @@
             "id": "AAT53224"
           }
         ],
-        "materialsAndTechniques": "Sterling silver, cast or die stamped.",
+        "materialsAndTechniques": "Sterling silver, cast or die stamped",
         "categories": [
           {
             "text": "Tableware and cutlery",
@@ -4547,7 +4650,7 @@
         "assets": [
           "2019LW2117"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -4629,8 +4732,13 @@
         "systemNumber": "O156812",
         "accessionNumber": "LOAN:GILBERT.803-2008",
         "objectType": "Meat dish cover",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Meat dish cover",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "The meat-dish cover has a plain oval rim and is alos decorated in relief with flowers, trelliswork, scrolls and shells, on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -4642,7 +4750,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -4901,7 +5009,7 @@
         "assets": [
           "2019LW8392"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -4983,8 +5091,13 @@
         "systemNumber": "O156813",
         "accessionNumber": "LOAN:GILBERT.804-2008",
         "objectType": "Smaller meat dish cover",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Smaller meat dish cover",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "The meat-dish cover has a plain oval rim and is also decorated in relief with flowers, trelliswork, scrolls and shells, on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -4996,7 +5109,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -5256,7 +5369,7 @@
           "2019LU7962",
           "2019LX0118"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -5338,8 +5451,13 @@
         "systemNumber": "O156814",
         "accessionNumber": "LOAN:GILBERT.805-2008",
         "objectType": "Smaller meat dish cover",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Smaller meat dish cover",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "The meat-dish cover has a plain oval rim and is alos decorated in relief with flowers, trelliswork, scrolls and shells, on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -5351,7 +5469,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -5602,7 +5720,7 @@
         "assets": [
           "2019LU1142"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -5694,8 +5812,13 @@
         "systemNumber": "O158113",
         "accessionNumber": "LOAN:GILBERT.800:1-2008",
         "objectType": "Vegetable dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Vegetable dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "The vegetable dish has gadrooned borders chased at interval swith shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales.  The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a moulded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -5707,7 +5830,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -6229,7 +6352,7 @@
           "2019LV9491",
           "2019LV8463"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -6391,8 +6514,13 @@
         "systemNumber": "O158114",
         "accessionNumber": "LOAN:GILBERT.801:1-2008",
         "objectType": "Vegetable dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Vegetable dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "The vegetable dish has gadrooned borders chased at interval s with shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales.  The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a moulded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -6404,7 +6532,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -6930,7 +7058,7 @@
           "2019LW3673",
           "2019LV8958"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -7007,8 +7135,13 @@
         "systemNumber": "O156811",
         "accessionNumber": "LOAN:GILBERT.802-2008",
         "objectType": "Meat dish cover",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Meat dish cover",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "The meat-dish cover has a plain oval rim and is alos decorated in relief with flowers, trelliswork, scrolls and shells, on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -7020,7 +7153,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -7280,7 +7413,7 @@
           "2019LW9074",
           "2019LW1993"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -7442,8 +7575,13 @@
         "systemNumber": "O158122",
         "accessionNumber": "LOAN:GILBERT.792:1-2008",
         "objectType": "Entree dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Entree dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "The dish has gadrooned borders chased at intervals with shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales. The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above a plain oval rim. The plated stand rests on four foliage bracket feet. The lower section is decorated with a band of stamped acanthus foliage and palmettes; the upper part is plain and pierced with a band of alternating oblongs and six-pointed stars. The handles are reeded and chased with foliage. Each stand has a plain, detachable, plate-like support for its dish and encloses a spirit burner.",
         "artistMakerPerson": [
           {
@@ -7455,7 +7593,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -7878,7 +8016,7 @@
           "2019LW3330",
           "2019LW1034"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -7980,8 +8118,13 @@
         "systemNumber": "O158123",
         "accessionNumber": "LOAN:GILBERT.793:1-2008",
         "objectType": "Entree dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Entrée",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "The dish has gadrooned borders chased at intervals with shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales. The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above a plain oval rim. The plated stand rests on four foliage bracket feet. The lower section is decorated with a band of stamped acanthus foliage and palmettes; the upper part is plain and pierced with a band of alternating oblongs and six-pointed stars. The handles are reeded and chased with foliage. Each stand has a plain, detachable, plate-like support for its dish and encloses a spirit burner.",
         "artistMakerPerson": [
           {
@@ -7993,7 +8136,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -8396,7 +8539,7 @@
           "2019LW1035",
           "2019LW0769"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -8493,8 +8636,13 @@
         "systemNumber": "O158124",
         "accessionNumber": "LOAN:GILBERT.794:1-2008",
         "objectType": "Entree dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Entrée dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "The dish has gadrooned borders chased at intervals with shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales. The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above a plain oval rim. The plated stand rests on four foliage bracket feet. The lower section is decorated with a band of stamped acanthus foliage and palmettes; the upper part is plain and pierced with a band of alternating oblongs and six-pointed stars. The handles are reeded and chased with foliage. Each stand has a plain, detachable, plate-like support for its dish and encloses a spirit burner.",
         "artistMakerPerson": [
           {
@@ -8914,7 +9062,7 @@
           "2019LW0111",
           "2019LV8957"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -9016,8 +9164,13 @@
         "systemNumber": "O158125",
         "accessionNumber": "LOAN:GILBERT.795:1-2008",
         "objectType": "Entree dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Entrée dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "The dish has gadrooned borders chased at intervals with shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales. The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above a plain oval rim. The plated stand rests on four foliage bracket feet. The lower section is decorated with a band of stamped acanthus foliage and palmettes; the upper part is plain and pierced with a band of alternating oblongs and six-pointed stars. The handles are reeded and chased with foliage. Each stand has a plain, detachable, plate-like support for its dish and encloses a spirit burner.",
         "artistMakerPerson": [
           {
@@ -9029,7 +9182,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -9438,7 +9591,7 @@
           "2019LW0283",
           "2019LV8692"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -9535,8 +9688,13 @@
         "systemNumber": "O158126",
         "accessionNumber": "LOAN:GILBERT.796:1-2008",
         "objectType": "Entree dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Entrée dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "The entree dish has gadrooned borders chased at interval swith shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales.  The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -9548,7 +9706,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -9939,7 +10097,7 @@
           "2019LW6405",
           "2019LW1951"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -10031,8 +10189,13 @@
         "systemNumber": "O158127",
         "accessionNumber": "LOAN:GILBERT.797:1-2008",
         "objectType": "Entree dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Entrée dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "The entree dish has gadrooned borders chased at interval swith shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales.  The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.\r\n\r\nThe stand is die-stamped in several sections with a circular spirit lamp at the centre.  The reverse of the decoration of each foot is concealed by a plain plate applied to the back.  The stand is fitted with a plain dish to support the silver dish.",
         "artistMakerPerson": [
           {
@@ -10336,7 +10499,7 @@
         "marksAndInscriptions": [],
         "objectHistory": "Provenance: Bernard Edward Howard, twelfth Duke of Norfolk (complete service) Lillian and Morrie A.  Morris, Memphis, Tennessee.  Purchased from David Orgell, Inc., Beverly Hills, 1976.",
         "historicalContext": "",
-        "briefDescription": "Silver and Sheffield plate, London hallmarks for 1816-18, marks of Paul Storr and the Matthew Boulton Plate Company",
+        "briefDescription": "Entrée dish, silver and Sheffield plate, London hallmarks for 1816-18, marks of Paul Storr and the Matthew Boulton Plate Company",
         "bibliographicReferences": [
           {
             "reference": {
@@ -10427,7 +10590,7 @@
           "2019LW8707",
           "2019LW3331"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -10529,8 +10692,13 @@
         "systemNumber": "O158128",
         "accessionNumber": "LOAN:GILBERT.798:1-2008",
         "objectType": "Vegetable dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Vegetable dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "The vegetable dish has gadrooned borders chased at interval swith shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales.  The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -10542,7 +10710,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -11099,7 +11267,7 @@
           "2019LT7976",
           "2019LW3538"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -11191,8 +11359,13 @@
         "systemNumber": "O158112",
         "accessionNumber": "LOAN:GILBERT.799:1-2008",
         "objectType": "Vegetable dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Vegetable dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts began collecting silver from the 1970s onwards, during a boom time for the buying and selling of silver. This dinner service had been commissioned by Bernard Edward Howard (1765–1842), the 12th Duke of Norfolk, after he inherited the title in 1815. Large parts of the service were sold in the 1960s and 1970s by descendent family members.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "The vegetable dish has gadrooned borders chased at intervals with shells and flowers and flat-chased within a band of scrolling foliage, trelliswork, and scales.  The domed covers of these dishes are decorated in relief with flowers, trelliswork, scrolls, and shells on matted ground; they have a coat of arms applied on both sides and a molded band of rosettes and foliage above the plain rims.  Detachable reeded handles spring from lion masks above a foliate calyx.",
         "artistMakerPerson": [
           {
@@ -11204,7 +11377,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "Silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -11722,7 +11895,7 @@
           "2019LW4651",
           "2019LW2336"
         ],
-        "recordModificationDate": "2026-01-21",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -11809,8 +11982,13 @@
         "systemNumber": "O157684",
         "accessionNumber": "LOAN:GILBERT.180:1, 2-2008",
         "objectType": "Table",
-        "titles": [],
-        "summaryDescription": "Micromosaics have their roots in the larger mosaics of ancient Rome used to decorate their walls and floors. The first micromosaics were created in the 18th century, but it was not until Arthur Gilbert himself became interested in collecting them and invented the term 'micromosaics' that they became known as such. The tesserae are minute pieces cut from thin pieces of glass known as smalti filati, and some of the finest micomosaics can consist of as many as 5,000 tesserae per square inch (ca. 3 by 3cm). By the late 18th century Rome had become central to the production of micromosaics and sold them as souvenirs to wealthy foreigners visiting the city. From small elegant snuffboxes to large monumental tabletops, micromosaics could be used to decorate objects of all shapes and sizes. They could even be made to resemble full-sized canvas paintings, and indeed Arthur Gilbert himself mistook his very first micromosaic for a painting. When he brought it home to show his wife, he had to convince her that it was not in fact a cracked painting, as she supposed, but a mosaic.\r\n\r\nThe East was a popular subject in 19th-century European art. The central image of three Arabs hunting is based on <i>The Lion Hunt</i>, a painting of 1836 by the French artist Horace Vernet, who had travelled in Algeria and the Middle East. The Gilberts acquired this tabletop in 1969 from the Vatican, where it had been in the possession of one of the cardinals.\r\n\r\nSir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes.  Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Micromosaic table with lion hunt",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts visited the Vatican Mosaic Workshop many times to learn about the craft of micromosaics. They acquired this tabletop in 1969, allegedly receiving it as a gift from the Vatican in return for a donation. The central image is based on <i>The Lion Hunt</i>, a painting from 1836 by French artist Horace Vernet, who had travelled in Algeria and the Middle East.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&amp;A since 2008. \r\n",
         "physicalDescription": "Round black marble table with a micromosaic depiction of three Arabs on horseback attacking a lioness with spears. This scene is surrounded by a floral wreath. The table has a gilt bronze pedestal base.",
         "artistMakerPerson": [
           {
@@ -11993,9 +12171,9 @@
         ],
         "dimensionsNote": "Measured 24/05/24 IW",
         "marksAndInscriptions": [],
-        "objectHistory": "Provenance: Studio del Mosaico, Vatican.\n\nHistorical significance: A reverse image after <i>The Lion Hunt</i>, a painting by Horace Vernet (1789-1863) in the Wallace Collection, London. Vernet was the Director of the French Academy in Rome and his work demonstrates the contemporary fashion of Orientalism. This was based on an imaginary and romanticised view of the Islamic world and was adapted to suit a wide range of decorative arts in the late 19th century",
+        "objectHistory": "Provenance: Studio del Mosaico, Vatican. The Gilberts acquired this tabletop in 1969 from the Vatican, where it had been in the possession of one of the cardinals.\n\nHistorical significance: A reverse image after <i>The Lion Hunt</i>, a painting by Horace Vernet (1789-1863) in the Wallace Collection, London. Vernet was the Director of the French Academy in Rome. He had travelled in Algeria and the Middle East and his work demonstrates the contemporary fashion of Orientalism. This was based on an imaginary and romanticised view of the Islamic world and was adapted to suit a wide range of decorative arts in the late 19th century.\n\nMicromosaics have their roots in the larger mosaics of ancient Rome used to decorate their walls and floors. The first micromosaics were created in the 18th century, but it was not until Arthur Gilbert himself became interested in collecting them and invented the term 'micromosaics' that they became known as such. The tesserae are minute pieces cut from thin pieces of glass known as smalti filati, and some of the finest micromosaics can consist of as many as 1500 tesserae per square centimetre. By the late 18th century Rome had become central to the production of micromosaics and sold them as souvenirs to wealthy foreigners visiting the city. From small elegant snuffboxes to large monumental tabletops, micromosaics could be used to decorate objects of all shapes and sizes. They could even be made to resemble full-sized canvas paintings, and indeed Arthur Gilbert himself mistook his very first micromosaic for a painting. When he brought it home to show his wife, he had to convince her that it was not in fact a cracked painting, as she supposed, but a mosaic.\r\n\n",
         "historicalContext": "When Arthur and Rosalinde Gilbert were first shown this table they were told that it was intended as a gift from one of the Vatican hierarchy to the Pope and that it was not for sale.  Not to be defeated, the Gilberts wrote to the Vatican explaining that they intended to make a large donation to the church, after which they received the table as a gift.",
-        "briefDescription": "Mosaic table with Lion Hunt, Rome, ca.1850-1875.",
+        "briefDescription": "Micromosaic table with 'The Lion Hunt', Rome, ca.1850-1875.",
         "bibliographicReferences": [
           {
             "reference": {
@@ -12114,7 +12292,7 @@
           "2025PC5588",
           "2019MF2626"
         ],
-        "recordModificationDate": "2026-01-22",
+        "recordModificationDate": "2026-02-26",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -12221,8 +12399,13 @@
         "systemNumber": "O158046",
         "accessionNumber": "LOAN:GILBERT.780-2008",
         "objectType": "Stand",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Stand",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The decorative grapevines on these wine coolers and stands refer to their traditional function. The Gilberts occasionally used them as floral centrepieces for their dining table in their Los Angeles home. These were some of their first silver purchases and were exhibited at the Los Angeles County Museum of Art in the 1970s. The maker, Benjamin Smith, was highly collectable in the 1960s and ‘70s.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "A circular stand for a wine cooler on four paw-and-wing feet, chased around the border with a band of leaves and berries on matted ground. Around the sunken centre are masks of Silenus and a band of grapevines and fruit; a beaded band is applied within. The stand is engraved with a crest.",
         "artistMakerPerson": [
           {
@@ -12267,7 +12450,7 @@
             "id": "AAT53789"
           }
         ],
-        "materialsAndTechniques": "Raised, cast, chased, seamed and engraved silver-gilt.",
+        "materialsAndTechniques": "Raised, cast, chased, seamed and engraved silver-gilt",
         "categories": [
           {
             "text": "Drinking",
@@ -12470,7 +12653,7 @@
         ],
         "dimensionsNote": "Measured 23/02/2024 IW, weight is overall weight.",
         "marksAndInscriptions": [],
-        "objectHistory": "Provenance: Earl of Crawford and Balcarres, sale, Christie's, lot 71, October 9, 1946.  A.  B.  Gilbert, London.  Sir William Butlin, sale, Christie's, lot 57, November 20, 1968.  Partridge Fine Arts Ltd., London, 1969.",
+        "objectHistory": "Provenance: Earl of Crawford and Balcarres, sale, Christie's, lot 71, October 9, 1946.  A.  B.  Gilbert, London.  Sir William Butlin, sale, Christie's, lot 57, November 20, 1968.  Partridge Fine Arts Ltd., London, 1969.\r\n\r\nThe arms are those of Crawford quartering Abernethy, Barclay, and Lindsay, presumably for James Lindsay (1783-1869). The positive identification of this coat of arms, however, is not absolutely certain, since it is not recorded in this form by the Lyon Court of Arms in Edinburgh, and since the arms of Lindsay should more properly have been displayed in the first, rather than the fourth, quarter. See Schroder (1988), p.387, in ‘Reference’ field for full details.",
         "historicalContext": "",
         "briefDescription": "Wine cooler stand, silver-gilt.  Benjamin Smith II and James Smith III, 1811.",
         "bibliographicReferences": [
@@ -12565,7 +12748,7 @@
           "2017KE1801",
           "2019LV9755"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -12667,8 +12850,13 @@
         "systemNumber": "O158045",
         "accessionNumber": "LOAN:GILBERT.779:1-2008",
         "objectType": "Wine cooler",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Wine cooler",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The decorative grapevines on these wine coolers and stands refer to their traditional function. The Gilberts occasionally used them as floral centrepieces for their dining table in their Los Angeles home. These were some of their first silver purchases and were exhibited at the Los Angeles County Museum of Art in the 1970s. The maker, Benjamin Smith, was highly collectable in the 1960s and ‘70s.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "A two-handled, krater-shaped cooler resting on a circular foot chased in the centre with fluting and a spool-shaped stem decorated beneath the bowl with bands of egg-and-dart ornament and stylised leaves. The bowl, chased with a calyx of acanthus on the lower part, is plain above and has a band of vines and bunches of grapes beneath the lip. The spreading rim is chased with a band of egg and dart and applied beading within. The handles are chased with fluting and foliage and spring from bearded classical masks applied to the lower part of the body. The cooler has a plain, cylindrical liner, supporting ring, and detachable collar with an applied band of vines and grapes. The cooler is engraved twice with a coat of arms.",
         "artistMakerPerson": [
           {
@@ -12713,7 +12901,7 @@
             "id": "AAT53789"
           }
         ],
-        "materialsAndTechniques": "Raised, cast, chased, seamed and engraved silver-gilt.",
+        "materialsAndTechniques": "Raised, cast, chased, seamed and engraved silver-gilt",
         "categories": [
           {
             "text": "Drinking",
@@ -12954,7 +13142,7 @@
         ],
         "dimensionsNote": "First height is overall height (with stand), weight is overall weight.",
         "marksAndInscriptions": [],
-        "objectHistory": "Provenance: Earl of Crawford and Balcarres, sale, Christie's, lot 71, October 9, 1946.  A.  B.  Gilbert, London.  Sir William Butlin, sale, Christie's, lot 57, November 20, 1968.  Partridge Fine Arts Ltd., London, 1969.",
+        "objectHistory": "Provenance: Earl of Crawford and Balcarres, sale, Christie's, lot 71, October 9, 1946.  A.  B.  Gilbert, London.  Sir William Butlin, sale, Christie's, lot 57, November 20, 1968.  Partridge Fine Arts Ltd., London, 1969.\r\n\r\nThe arms are those of Crawford quartering Abernethy, Barclay, and Lindsay, presumably for James Lindsay (1783-1869). The positive identification of this coat of arms, however, is not absolutely certain, since it is not recorded in this form by the Lyon Court of Arms in Edinburgh, and since the arms of Lindsay should more properly have been displayed in the first, rather than the fourth, quarter. See Schroder (1988), p.387, in ‘Reference’ field for full details.",
         "historicalContext": "",
         "briefDescription": "Wine cooler, silver-gilt.  Benjamin Smith II and James Smith III, 1811.",
         "bibliographicReferences": [
@@ -13057,7 +13245,7 @@
           "2019LU6837",
           "2019LW1302"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -13169,8 +13357,13 @@
         "systemNumber": "O158048",
         "accessionNumber": "LOAN:GILBERT.782-2008",
         "objectType": "Stand",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Stand",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The decorative grapevines on these wine coolers and stands refer to their traditional function. The Gilberts occasionally used them as floral centrepieces for their dining table in their Los Angeles home. These were some of their first silver purchases and were exhibited at the Los Angeles County Museum of Art in the 1970s. The maker, Benjamin Smith, was highly collectable in the 1960s and ‘70s.\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "A circular stand for a wine cooler on four paw-and-wing feet, chased around the border with a band of leaves and berries on matted ground. Around the sunken centre are masks of Silenus and a band of grapevines and fruit; a beaded band is applied within. The stand is engraved with a crest.",
         "artistMakerPerson": [
           {
@@ -13190,8 +13383,8 @@
               "id": "A10546"
             },
             "association": {
-              "text": "makers",
-              "id": "AAT251917"
+              "text": "maker",
+              "id": "x40240"
             },
             "note": ""
           }
@@ -13226,7 +13419,7 @@
             "id": "AAT53789"
           }
         ],
-        "materialsAndTechniques": "Raised, cast, chased, seamed and engraved silver-gilt.",
+        "materialsAndTechniques": "Raised, cast, chased, seamed and engraved silver-gilt",
         "categories": [
           {
             "text": "Drinking",
@@ -13430,7 +13623,7 @@
         ],
         "dimensionsNote": "First height is overall height (with stand), weight is overall weight.",
         "marksAndInscriptions": [],
-        "objectHistory": "Provenance: Earl of Crawford and Balcarres, sale, Christie's, lot 71, October 9, 1946.  A.  B.  Gilbert, London.  Sir William Butlin, sale, Christie's, lot 57, November 20, 1968.  Partridge Fine Arts Ltd., London, 1969.",
+        "objectHistory": "Provenance: Earl of Crawford and Balcarres, sale, Christie's, lot 71, October 9, 1946.  A.  B.  Gilbert, London.  Sir William Butlin, sale, Christie's, lot 57, November 20, 1968.  Partridge Fine Arts Ltd., London, 1969.\r\n\r\nThe arms are those of Crawford quartering Abernethy, Barclay, and Lindsay, presumably for James Lindsay (1783-1869). The positive identification of this coat of arms, however, is not absolutely certain, since it is not recorded in this form by the Lyon Court of Arms in Edinburgh, and since the arms of Lindsay should more properly have been displayed in the first, rather than the fourth, quarter. See Schroder (1988), p.387, in ‘Reference’ field for full details.",
         "historicalContext": "",
         "briefDescription": "Wine cooler stand, silver-gilt.  Benjamin Smith II and James Smith III, 1811.",
         "bibliographicReferences": [
@@ -13517,7 +13710,7 @@
           "2017KE1821",
           "2019LT9191"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -13654,8 +13847,13 @@
         "systemNumber": "O158047",
         "accessionNumber": "LOAN:GILBERT.781:1-2008",
         "objectType": "Wine cooler",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Wine cooler",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The decorative grapevines on these wine coolers and stands refer to their traditional function. The Gilberts occasionally used them as floral centrepieces for their dining table in their Los Angeles home. These were some of their first silver purchases and were exhibited at the Los Angeles County Museum of Art in the 1970s. The maker, Benjamin Smith, was highly collectable in the 1960s and ‘70s.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "A two-handled, krater-shaped cooler resting on a circular foot chased in the centre with fluting and a spool-shaped stem decorated beneath the bowl with bands of egg-and-dart ornament and stylised leaves. The bowl, chased with a calyx of acanthus on the lower part, is plain above and has a band of vines and bunches of grapes beneath the lip. The spreading rim is chased with a band of egg and dart and applied beading within. The handles are chased with fluting and foliage and spring from bearded classical masks applied to the lower part of the body. The cooler has a plain, cylindrical liner, supporting ring, and detachable collar with an applied band of vines and grapes. The cooler is engraved twice with a coat of arms.",
         "artistMakerPerson": [
           {
@@ -13700,7 +13898,7 @@
             "id": "AAT53789"
           }
         ],
-        "materialsAndTechniques": "Raised, cast, chased, seamed and engraved silver-gilt.",
+        "materialsAndTechniques": "Raised, cast, chased, seamed and engraved silver-gilt",
         "categories": [
           {
             "text": "Drinking",
@@ -13948,7 +14146,7 @@
         ],
         "dimensionsNote": "Measured 23/02/24 IW, weight is overall weight.",
         "marksAndInscriptions": [],
-        "objectHistory": "Provenance: Earl of Crawford and Balcarres, sale, Christie's, lot 71, October 9, 1946.  A.  B.  Gilbert, London.  Sir William Butlin, sale, Christie's, lot 57, November 20, 1968.  Partridge Fine Arts Ltd., London, 1969.",
+        "objectHistory": "Provenance: Earl of Crawford and Balcarres, sale, Christie's, lot 71, October 9, 1946.  A.  B.  Gilbert, London.  Sir William Butlin, sale, Christie's, lot 57, November 20, 1968.  Partridge Fine Arts Ltd., London, 1969.\r\n\r\nThe arms are those of Crawford quartering Abernethy, Barclay, and Lindsay, presumably for James Lindsay (1783-1869). The positive identification of this coat of arms, however, is not absolutely certain, since it is not recorded in this form by the Lyon Court of Arms in Edinburgh, and since the arms of Lindsay should more properly have been displayed in the first, rather than the fourth, quarter. See Schroder (1988), p.387, in ‘Reference’ field for full details.",
         "historicalContext": "",
         "briefDescription": "Wine cooler, silver-gilt.  Benjamin Smith II and James Smith III, 1811.",
         "bibliographicReferences": [
@@ -14051,7 +14249,7 @@
           "2019LW3329",
           "2019LW0380"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -14093,8 +14291,13 @@
         "systemNumber": "O156703",
         "accessionNumber": "LOAN:GILBERT.973-2008",
         "objectType": "Meat dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Meat dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts became well known for purchasing London Huguenot silver, including these dishes by Nicholas Sprimont. Sprimont worked in London between 1743 and 1747 before abandoning silversmithing to manufacture porcelain. These domestic meat dishes were not out of the ordinary in their own time but are now a rare survival of Sprimont’s silver work from this period.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008. ",
         "physicalDescription": "Silver meat dish of shaped oval form with a reeded border modeled at intervals with shells, foliage and strapwork.",
         "artistMakerPerson": [
           {
@@ -14106,7 +14309,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -14346,7 +14549,7 @@
         "assets": [
           "2019LU2137"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -14388,8 +14591,13 @@
         "systemNumber": "O156702",
         "accessionNumber": "LOAN:GILBERT.984-2008",
         "objectType": "Meat dish",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Meat dish",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts became well known for purchasing London Huguenot silver, including these dishes by Nicholas Sprimont. Sprimont worked in London between 1743 and 1747 before abandoning silversmithing to manufacture porcelain. These domestic meat dishes were not out of the ordinary in their own time but are now a rare survival of Sprimont’s silver work from this period.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008. ",
         "physicalDescription": "Silver meat dish of shaped oval form with a reeded border modelled at intervals with shells, foliage and strapwork.",
         "artistMakerPerson": [
           {
@@ -14401,7 +14609,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -14641,7 +14849,7 @@
         "assets": [
           "2019LW6990"
         ],
-        "recordModificationDate": "2026-01-19",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -14707,14 +14915,14 @@
       "record": {
         "systemNumber": "O157671",
         "accessionNumber": "LOAN:GILBERT.878:1-2008",
-        "objectType": "Picture",
+        "objectType": "Panel",
         "titles": [
           {
             "title": "Musketeer",
             "type": ""
           }
         ],
-        "summaryDescription": "This mosaic shows a soldier with musket, sword and powder flask. His dress and equipment are inspired by 17th-century examples. Musketeers, cavaliers and other chivalrous characters were a popular subject-matter for micromosaics created at the Vatican Workshop in the late 19th century. Since the era of Alexandre Dumas (1802-1870) and widespread popular interest in romantic swashbuckling characters, subject-matters such as this were a commercially successful addition to the products of the Vatican Workshop.\r\n\r\nThe dates of Luigi Tarantoni's life are not known, but it is certain that he worked for the Vatican Workshop during the second half of the 19th century, and probably during the early 20th century as well. He appears to have depicted a series of fictitious soldiers in historic costume. Often these figures are shown in historic dress in the style of contemporary photographic portraits in historic disguise, set against a plain, monochrome background. These backgrounds tend to be of a comparatively simple opus tesselatum design. The soldiers are idealised representatives of a type, not individuals.\r\n\r\nThis particular mosaic is unusual in comparison. Not only does it depict the musketeer against a landscape background, but it also shows him at dusk, or dawn, walking down a hill towards the observer with what could be interpreted as a tired and melancholic expression upon his face. This integration of individualism invites titles - such as Soldier Returning from War - that give the figure a history and a narrative context.\r\n\r\nThe sunset is in the tradition of the fantastic skies that can be found in micromosaics from around the middle of the 19th century, and proves what a seemingly infinite variety of glass colours were available at the Vatican Workshop by the end of the 19th century. It also proves that even then, pictorial illusionism was still one of the main criteria for the quality of micromosaics.\r\n\r\nSir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "summaryDescription": "\nBy the 1860s, micromosaicists began to vary their output beyond antique motifs. They depicted new subjects like figures in historic dress, which were fashionable in contemporary paintings. Luigi Tarantoni specialized in these types of figures. He was also known for his distinctive backgrounds, in graduated colours from orange to gold, to blue. The Gilberts purchased this work in 1969 from a New York dealer.\r\n\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&amp;A since 2008.",
         "physicalDescription": "Rectangular micromosaic picture with a central full-length figure of a helmeted man in seventeenth century soldier's attire carrying a long rifle over his right shoulder. At the lower right is the signature: RFS Petri/Tarantoni.",
         "artistMakerPerson": [
           {
@@ -14919,9 +15127,9 @@
             "note": "Signed lower right for Reverenda Fabbrica Sancti Petri"
           }
         ],
-        "objectHistory": "Provenance: Herbert Trigger, New York, 1969.",
-        "historicalContext": "Micromosaics have their roots in the larger mosaics of ancient Rome used to decorate their walls and floors. The first micromosaics were created in the 18th century, but it was not until Arthur Gilbert himself became interested in collecting them and invented the term 'micromosaics' that they became known as such. The tesserae are minute pieces cut from thin pieces of glass known as smalti filati, and some of the finest micomosaics can consist of as many as 5,000 tesserae per square inch (ca. 3 by 3cm). By the late 18th century Rome had become central to the production of micromosaics and sold them as souvenirs to wealthy foreigners visiting the city. From small elegant snuffboxes to large monumental tabletops, micromosaics could be used to decorate objects of all shapes and sizes. They could even be made to resemble full-sized canvas paintings, and indeed Arthur Gilbert himself mistook his very first micromosaic for a painting. When he brought it home to show his wife, he had to convince her that it was not in fact a cracked painting, as she supposed, but a mosaic.",
-        "briefDescription": "Large picture of Roman Cavalier, Rome, Luigi Tarantoni, late 19th/early 20th century.",
+        "objectHistory": "Provenance: Herbert Trigger, New York, 1969.\r\n\r\nThis mosaic shows a soldier with musket, sword and powder flask. His dress and equipment are inspired by 17th-century examples. Musketeers, cavaliers and other chivalrous characters were a popular subject-matter for micromosaics created at the Vatican Workshop in the late 19th century. Since the era of Alexandre Dumas (1802-1870) and widespread popular interest in romantic swashbuckling characters, subject-matters such as this were a commercially successful addition to the products of the Vatican Workshop.\n\r\nThe dates of Luigi Tarantoni's life are not known, but it is certain that he worked for the Vatican Workshop during the second half of the 19th century, and probably during the early 20th century as well. He appears to have depicted a series of fictitious soldiers in historic costume. Often these figures are shown in old-fashioned dress in the style of contemporary photographic portraits in historic disguise, set against a plain, monochrome background. These backgrounds tend to be of a comparatively simple opus tesselatum design. The soldiers are idealised representatives of a type, not individuals.\n\r\nThis particular mosaic is unusual in comparison. Not only does it depict the musketeer against a landscape background, but it also shows him at dusk, or dawn, walking down a hill towards the observer with what could be interpreted as a tired and melancholic expression upon his face. This integration of individualism invites titles - such as Soldier Returning from War - that give the figure a history and a narrative context.\r\nThe sunset is in the tradition of the fantastic skies that can be found in micromosaics from around the middle of the 19th century, and proves what a seemingly infinite variety of glass colours were available at the Vatican Workshop by the end of the 19th century. It also proves that even then, pictorial illusionism was still one of the main criteria for the quality of micromosaics.\r\n\nMicromosaics have their roots in the larger mosaics of ancient Rome used to decorate their walls and floors. The first micromosaics were created in the 18th century, but it was not until Arthur Gilbert himself became interested in collecting them and invented the term 'micromosaics' that they became known as such. The tesserae are minute pieces cut from thin pieces of glass known as smalti filati, and some of the finest micomosaics can consist of as many as 1500 tesserae per square centimetre. By the late 18th century Rome had become central to the production of micromosaics and sold them as souvenirs to wealthy foreigners visiting the city. From small elegant snuffboxes to large monumental tabletops, micromosaics could be used to decorate objects of all shapes and sizes. They could even be made to resemble full-sized canvas paintings, and indeed Arthur Gilbert himself mistook his very first micromosaic for a painting. When he brought it home to show his wife, he had to convince her that it was not in fact a cracked painting, as she supposed, but a mosaic.",
+        "historicalContext": "",
+        "briefDescription": "Large micromosaic panel of Roman Cavalier, Rome, Luigi Tarantoni, late 19th/early 20th century.",
         "bibliographicReferences": [
           {
             "reference": {
@@ -15026,7 +15234,7 @@
         "assets": [
           "2019MF3201"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -15107,9 +15315,14 @@
       "record": {
         "systemNumber": "O156781",
         "accessionNumber": "LOAN:GILBERT.1074-2008",
-        "objectType": "Picture",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "objectType": "Panel",
+        "titles": [
+          {
+            "title": "Pair of Flower Pictures",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts often chose to display micromosaics, rather than oil paintings, on the walls of their home. These large floral compositions hung in different rooms in the house rather than being presented together as a pair. The artist used a huge variation of colours and techniques to create the highly illusionistic flowers, like elongated tesserae to look like painterly brushstrokes.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Micromosaic picture depicting a vase of flowers including daffodils, lilies, morning glory, peonies, roses, stock, and tulips.  The vase rests on a thin rectinlinear slab, which appears to be floating on a black marble ground; one of a pair, unframed  ",
         "artistMakerPerson": [
           {
@@ -15146,7 +15359,7 @@
             "id": "AAT240903"
           }
         ],
-        "materialsAndTechniques": "Micromosaic on Belgian marble support, giltwood",
+        "materialsAndTechniques": "Micromosaic on Belgian Black marble support",
         "categories": [
           {
             "text": "Metalwork",
@@ -15367,7 +15580,7 @@
           "WHOLE"
         ],
         "assets": [],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -15423,14 +15636,14 @@
       "record": {
         "systemNumber": "O156425",
         "accessionNumber": "LOAN:GILBERT.186-2008",
-        "objectType": "Picture",
+        "objectType": "Panel",
         "titles": [
           {
             "title": "Roman Peasants at a Well",
             "type": ""
           }
         ],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "summaryDescription": "The figures in traditional regional Roman dress may represent an allegory of the biblical story of ‘Rebecca at the Well’. The Gilberts bought this mosaic, and several others, from South Audley Art Galleries in London. In 1979, Arthur wrote to the gallery saying that anything they offer him, ‘has to be something quite out of the ordinary’ as his collection was, by then, extensive.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "A rectangular picture showing in the centre and right a group of four women and a boy at a well beside a rocky embankment overhung with a tree branch. The central figure of this group holds a jar, while the two women on her left, one standing and one seated, hold a skein and ball of wool. The women look towards the viewer's left at two further figures. The boy fills a vessel from the well spout, a sheep beside his knee. On the left are a man and boy in traveller's dress, the man with his left hand on a walking stick and his right hand held towards the women. The boy stands with his right hand on a walking stick. All are in Italian peasant attire.",
         "artistMakerPerson": [
           {
@@ -15451,6 +15664,10 @@
           {
             "text": "mosaic glass",
             "id": "AAT260731"
+          },
+          {
+            "text": "wood",
+            "id": "AAT11914"
           }
         ],
         "techniques": [
@@ -15459,7 +15676,7 @@
             "id": "x42499"
           }
         ],
-        "materialsAndTechniques": "Micromosaic",
+        "materialsAndTechniques": "Micromosaic, carved and gilded wood",
         "categories": [
           {
             "text": "Mosaic",
@@ -15565,7 +15782,7 @@
         "marksAndInscriptions": [],
         "objectHistory": "Provenance: Anon, sale, Sotheby's, London, lot 283, 07/04/1977.  South Audley Art Galleries, 1977.",
         "historicalContext": "",
-        "briefDescription": "Micromosaic picture of Roman Peasants at a Well.  Gioacchino Barberi, Rome, 1833.",
+        "briefDescription": "Micromosaic panel of Roman Peasants at a Well.  Gioacchino Barberi, Rome, 1833.",
         "bibliographicReferences": [
           {
             "reference": {
@@ -15649,7 +15866,7 @@
           "2025PH4646",
           "2025PH4644"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -15725,9 +15942,14 @@
       "record": {
         "systemNumber": "O156779",
         "accessionNumber": "LOAN:GILBERT.1067-2008",
-        "objectType": "Picture",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "objectType": "Panel",
+        "titles": [
+          {
+            "title": "Pair of flower pictures",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts often chose to display micromosaics, rather than oil paintings, on the walls of their home. These large floral compositions hung in different rooms in the house rather than being presented together as a pair. The artist used a huge variation of colours and techniques to create the highly illusionistic flowers, like elongated tesserae to look like painterly brushstrokes.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Micromosaic picture of a vase of flowers including daffodils, lilies, morning glory, peonies, roses, stock, and tulips.  The vase rests on a thin rectinlinear slab, which appears to be floating on a black marble ground; one of a pair, unframed  ",
         "artistMakerPerson": [
           {
@@ -15764,7 +15986,7 @@
             "id": "AAT240903"
           }
         ],
-        "materialsAndTechniques": "Micromosaic, on Beglian marble support",
+        "materialsAndTechniques": "Micromosaic, on Belgian Black marble support",
         "categories": [
           {
             "text": "Metalwork",
@@ -15966,7 +16188,7 @@
         "assets": [
           "2025PH7663"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -16032,14 +16254,14 @@
       "record": {
         "systemNumber": "O157689",
         "accessionNumber": "LOAN:GILBERT.1014:1-2008",
-        "objectType": "Picture",
+        "objectType": "Panel",
         "titles": [
           {
             "title": "The Catch",
             "type": ""
           }
         ],
-        "summaryDescription": "To find out more about the making of pietre dure, refer to the video <i>Making a Pietre Dure panel,</i> in references \n\n\nThe creation of pictures in hardstone, so called pietre dure (Italian for ‘hard stones’), work has been an art associated in particular with Florence from the sixteenth century onwards. There, artists specialising in stone mosaics were first commissioned by Grand Duke Cosimo I de’ Medici (reigned 1569-74). His brother and successor Grand Duke Ferdinand I de’ Medici (reigned 1574-1609) elevated the art officially through the court workshops, established in 1588. The presence of this important centre also lead to the foundation of numerous private workshops, drawing upon the large number of craftsmen trained at the Ducal workshops. \r\n\nPietre Dure artists always aimed at a niche clientele, few could afford precious pictures in stone. The first half of the twentieth century was therefore a particularly challenging period for Florentine pietre workshops: traditions of production and style held dear for centuries were challenged in a rapidly changing world. They responded with changes in technique, preferring less expensive Tuscan stones, as well as with a change of subject-matters and styles away from traditional motives. The most exciting works from this period share a realism and preference for rural subjects, celebrating the simple pleasures and harsh reality of a Tuscan farmers’ life at the time, amid the beauty of the natural landscape. It is hard to imagine a starker contrast to the romantic couples set against varying historic backdrops, which were the dominant subject of Florentine pietre dure makers only a generation earlier. The change in imagery is in part supported by a different palette of stones used for their creation: Tuscan limestone increasingly replaced marbles. The pictures therefore have softer colours and are more akin to watercolours than to oil paintings when seen from a distance.\r\n\n\n",
+        "summaryDescription": "The Gilberts bought their first hardstone mosaic in 1963 from Arte del Mosaico in Florence. In 1964 they purchased The Catch by Fernando Chisio, well-known for his Tuscan landscapes. By 1966, the Gilberts had acquired so many mosaics that Arthur remarked, ‘I believe I now have as many of the marble mosaic paintings in my house as you do in your factory’.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "Rectangular hardstone mosaic depicting two boys on a bridge in a hilly landscape.  The older boy is showing the younger boy a frog he has caught in a jar.",
         "artistMakerPerson": [
           {
@@ -16057,8 +16279,8 @@
         "artistMakerOrganisations": [
           {
             "name": {
-              "text": "Società Arte del Mosaico",
-              "id": "AUTH336263"
+              "text": "Società Civile Arte del Mosaico",
+              "id": "AUTH343548"
             },
             "association": {
               "text": "made",
@@ -16096,7 +16318,7 @@
             "id": "AAT240903"
           }
         ],
-        "materialsAndTechniques": "Pietre dure and gilt wood frame",
+        "materialsAndTechniques": "Hardstone mosaic (<i>commesso di pietre dure</i>), marbles and limestones",
         "categories": [
           {
             "text": "Metalwork",
@@ -16120,11 +16342,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "FLR",
-              "id": "THES404791"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "WE",
             "shelf": "",
             "box": ""
           },
@@ -16293,11 +16515,40 @@
             "transliteration": "",
             "type": "",
             "note": "Signed lower left"
+          },
+          {
+            "content": "'Made in Italy 1964', on the back of the panel",
+            "inscriber": {
+              "name": {
+                "text": "",
+                "id": ""
+              },
+              "association": {
+                "text": "",
+                "id": ""
+              }
+            },
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "description": "",
+            "interpretation": "",
+            "language": "",
+            "medium": "",
+            "method": "",
+            "position": "",
+            "script": "",
+            "translation": "",
+            "transliteration": "",
+            "type": "",
+            "note": "Iacopo Lastrucci, Director, confirmed that '1964' relates to the purchase and shipping of the panel from Arte del Mosaico to Arthur Gilbert in Los Angeles. (February 2026)."
           }
         ],
-        "objectHistory": "Provenance: Arte del Mosaico, 1975.",
+        "objectHistory": "Provenance: Arte del Mosaico, 1964. \r\n\r\nThe creation of pictures in hardstone, so called commessi di pietre dure (Italian for ‘hard stones’), work has been an art associated in particular with Florence from the 16th century onwards. There, artists specialising in stone mosaics were first commissioned by Grand Duke Cosimo I de’ Medici (reigned 1569-74). His brother and successor Grand Duke Ferdinand I de’ Medici (reigned 1574-1609) elevated the art officially through the court workshops, established in 1588. The presence of this important centre also lead to the foundation of numerous private workshops, drawing upon the large number of craftsmen trained at the Ducal workshops. \r\n\r\nPietre Dure artists always aimed at a niche clientele, few could afford precious pictures in stone. The first half of the 20th century was therefore a particularly challenging period for Florentine pietre workshops: traditions of production and style held dear for centuries were challenged in a rapidly changing world. They responded with changes in technique, preferring less expensive Tuscan stones, as well as with a change of subject-matters and styles away from traditional motives. The most exciting works from this period share a realism and preference for rural subjects, celebrating the simple pleasures and harsh reality of a Tuscan farmers’ life at the time, amid the beauty of the natural landscape. It is hard to imagine a starker contrast to the romantic couples set against varying historic backdrops, which were the dominant subject of Florentine pietre dure makers only a generation earlier. The change in imagery is in part supported by a different palette of stones used for their creation: Tuscan limestone increasingly replaced marbles. The pictures therefore have softer colours and are more akin to watercolours than to oil paintings when seen from a distance. \r\n",
         "historicalContext": "",
-        "briefDescription": "Rectangular hardstone mosaic depicting two boys on a bridge in a hilly landscape.  The older boy is showing the younger boy a frog he has caught in a jar.",
+        "briefDescription": "Rectangular hardstone mosaic (<i>commesso di pietre dure</i>) depicting two boys on a bridge in a hilly landscape.  The older boy is showing the younger boy a frog he has caught in a jar., Florence, Fernando Chisio, 1935-1955",
         "bibliographicReferences": [
           {
             "reference": {
@@ -16402,7 +16653,7 @@
         "assets": [
           "2019MF8768"
         ],
-        "recordModificationDate": "2026-01-16",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -16488,14 +16739,14 @@
       "record": {
         "systemNumber": "O158073",
         "accessionNumber": "LOAN:GILBERT.1068:1-2008",
-        "objectType": "Picture",
+        "objectType": "Panel",
         "titles": [
           {
             "title": "Othello",
             "type": "generic title"
           }
         ],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "summaryDescription": "Shakespearean subjects are unusual in micromosaics and this work depicts a scene from Shakespeare’s Othello. Arthur Gilbert would have recognised the rarity of this subject when he bought the work at auction in 1997. This scene shows the characters, Desdemona, Brabantio and Othello on a balcony in Venice, with a canal and St Mark’s Basilica in the background.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Rectangular mosaic depicting Othello, Desdemona and her father Brabantio in the pillared balcony of a Venetian palazzo. In the background can be seen a canal and St. Mark's Basilica. Othello stands on the viewer's left with his right hand  held aloft as if for emphasis. Desdemona sits on an oriental rug at the right, clasping her hands around her knees and leaning against her father who is seated on a bench. They are both gazing raptly at Othello.",
         "artistMakerPerson": [
           {
@@ -16731,7 +16982,7 @@
         "marksAndInscriptions": [],
         "objectHistory": "Provenance: Sale, Sotheby's, London, 28/02/1997, lot 212.",
         "historicalContext": "",
-        "briefDescription": "Picture of Othello, Desdemona and Brabantio.  Micromosaic, Rome.  A. Gallus, late 19th century",
+        "briefDescription": "Panel of Othello, Desdemona and Brabantio.  Micromosaic, Rome.  A. Callus, late 19th century",
         "bibliographicReferences": [
           {
             "reference": {
@@ -16797,7 +17048,7 @@
           "2025PK5047",
           "2019MF8854"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -16873,14 +17124,14 @@
       "record": {
         "systemNumber": "O157776",
         "accessionNumber": "LOAN:GILBERT.124:1-2008",
-        "objectType": "Picture",
+        "objectType": "Panel",
         "titles": [
           {
             "title": "The Judgement of Solomon",
             "type": "generic title"
           }
         ],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "summaryDescription": "The Gilberts bought this micromosaic from specialist dealer, Giuseppe Petochi, in Rome in 1983. The dealer wrote to Arthur, ‘It is a very fine work, in very fine condition and a very rare piece’.  Micromosaics were not commonly identified as made in Naples and the only two known examples were already in the Gilberts’ collection.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "Rectangular glass micromosaic depicting eleven figures in an elaborate room. King Solomon wearing a purple robe and gold chain is seated on a gold throne, extending his left hand. To his left and right are robed men and soldiers. Behind them is an arched portico open to the sky. In the central foreground a man with a sword appears to strike the infant. A woman kneels before him and on his right are two more female figures.\r\nMosaic on copper support",
         "artistMakerPerson": [
           {
@@ -16929,7 +17180,7 @@
             "id": "AAT240903"
           }
         ],
-        "materialsAndTechniques": "Micromosaic, gilt wooden frame",
+        "materialsAndTechniques": "Micromosaic, carved and gilded wooden frame",
         "categories": [
           {
             "text": "Mosaic",
@@ -17156,9 +17407,9 @@
             "note": "on lower right of mosaic"
           }
         ],
-        "objectHistory": "Provenance: Petochi and Gorevic, Rome, 1983.",
+        "objectHistory": "Provenance: G. Petochi, Rome, 1983.\r\n\r\nFrom the Gilbert Archives at the V&A: Correspondance from Giuseppe Petochi to Arthur Gilbert, 2 May 1983: ‘At last I have finally in my hands the wonderful mosaic of the “Judgement of Solomon” signed and dated by: “Ferdinando Scalabrino fecit in Napoli 1818”. It is a very fine work in very fine conditions and a very rare piece considering, that of of the School of Naples of Mosaics up until now only the two Lucchinus heads are known – now in your collection. (dimensions of mosaic 22 x 34cm)’.",
         "historicalContext": "",
-        "briefDescription": "Micromosaic picture - The Judgement of Solomon, Naples, Fernando Scalabrino, 1818.",
+        "briefDescription": "The Judgement of Solomon, micromosaic panel, Naples, Fernando Scalabrino, 1818.",
         "bibliographicReferences": [
           {
             "reference": {
@@ -17242,7 +17493,7 @@
           "2025PH7610",
           "2025PH7595"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -17313,15 +17564,15 @@
       "record": {
         "systemNumber": "O157679",
         "accessionNumber": "LOAN:GILBERT.177:1-2008",
-        "objectType": "Picture",
+        "objectType": "Panel",
         "titles": [
           {
             "title": "The Conspiracy of Cataline",
             "type": "generic title"
           }
         ],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
-        "physicalDescription": "Rectangular micromosaic picture depicting nine Romans dressed as soldiers or patricians, standing in a colonnaded room around a central table. Two of them, each holding vessels, shake hands over the table while a man behind raises his hand in a triumphant gesture; in a giltwood frame.",
+        "summaryDescription": "The mosaicist based this work on a monochrome print of a painting by Salvator Rosa (1615–73), creating their own colour scheme in glass. It shows the moment when a blood oath is made between the two figures at the centre of the composition. The Gilberts bought this mosaic early in their collecting journey from a London art dealer in 1969.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008. ",
+        "physicalDescription": "Rectangular micromosaic panel depicting nine Romans dressed as soldiers or patricians, standing in a colonnaded room around a central table. Two of them, each holding vessels, shake hands over the table while a man behind raises his hand in a triumphant gesture; in a giltwood frame.",
         "artistMakerPerson": [
           {
             "name": {
@@ -17533,7 +17784,7 @@
         "marksAndInscriptions": [],
         "objectHistory": "Provenance: Desmond Thomas, London, 1969.",
         "historicalContext": "",
-        "briefDescription": "Picture - conspiracy of Cataline, Rome, 1825.",
+        "briefDescription": "<i>Conspiracy of Cataline</i>, micromosaic panel, Rome, 1825.",
         "bibliographicReferences": [
           {
             "reference": {
@@ -17631,7 +17882,7 @@
           "2025PH4642",
           "2025PH4641"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -17702,9 +17953,14 @@
       "record": {
         "systemNumber": "O156826",
         "accessionNumber": "LOAN:GILBERT.123-2008",
-        "objectType": "Picture",
-        "titles": [],
-        "summaryDescription": "Sir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "objectType": "Panel",
+        "titles": [
+          {
+            "title": "Costume Romano (A man in Roman clothing)",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "Arthur Gilbert bought this striking portrait at auction in 2001, by which time his micromosaic collection was highly regarded internationally. In addition to their work for the Pope, the Vatican mosaicists also produced work on commission. The artist here used an irregular technique, using broken square tesserae, rather than the smooth, delicate pieces often found in mosaics from the late 1900s.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "Oval micromosaic in a gilt-wood frame, depicting a bearded man looking straight ahead, wearing a white shirt and red waistcoat. On the back is an original paper label of the REV. FABBRICA S. PIETRO IN VATICANO / STUDIO DEL MUSAICO, with order number, price (erased), artist and title: \"Costume Romano\".",
         "artistMakerPerson": [
           {
@@ -17749,7 +18005,7 @@
             "id": "AAT53789"
           }
         ],
-        "materialsAndTechniques": "Micromosaic and carved and gilded wood.",
+        "materialsAndTechniques": "Micromosaic and carved and gilded wood",
         "categories": [
           {
             "text": "Metalwork",
@@ -17897,7 +18153,7 @@
         "marksAndInscriptions": [],
         "objectHistory": "Provenance: Christie's, London, lot 338, 22/03/2001.",
         "historicalContext": "",
-        "briefDescription": "Micromosaic picture - Costume Romano. Francesco Gianfredi, Rome, ca.1860.",
+        "briefDescription": "<i>Costume Romano</i> (A man in Roman clothing), Micromosaic panel, Francesco Gianfredi, Rome, ca.1860.",
         "bibliographicReferences": [],
         "production": "Ex cat. Produced at the Vatican Mosaic Studio, Italy.",
         "productionType": {
@@ -17942,7 +18198,7 @@
           "2025PH0480",
           "2019MF3192"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -18013,14 +18269,14 @@
       "record": {
         "systemNumber": "O157731",
         "accessionNumber": "LOAN:GILBERT.936:1-2008",
-        "objectType": "Picture",
+        "objectType": "Panel",
         "titles": [
           {
             "title": "The Young Harvester",
             "type": ""
           }
         ],
-        "summaryDescription": "Micromosaics have their roots in the larger mosaics of ancient Rome used to decorate their walls and floors. The first micromosaics were created in the 18th century, but it was not until Arthur Gilbert himself became interested in collecting them and invented the term 'micromosaics' that they became known as such. The tesserae are minute pieces cut from thin pieces of glass known as smalti filati, and some of the finest micomosaics can consist of as many as 5,000 tesserae per square inch (ca. 3 by 3cm). By the late 18th century Rome had become central to the production of micromosaics and sold them as souvenirs to wealthy foreigners visiting the city. From small elegant snuffboxes to large monumental tabletops, micromosaics could be used to decorate objects of all shapes and sizes. They could even be made to resemble full-sized canvas paintings, and indeed Arthur Gilbert himself mistook his very first micromosaic for a painting. When he brought it home to show his wife, he had to convince her that it was not in fact a cracked painting, as she supposed, but a mosaic.\r\n\r\nSir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "summaryDescription": "The idealised scene of a woman wearing traditional regional clothing with Roman ruins and landscape was a highly fashionable subject at the time. It carried political meaning in support of the social movements leading to the unification of Italy. An inscription on the back of the work’s frame states it was made at Porta Constant Mosaic Manufactory in Rome, about which little is known.\n\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&amp;A since 2008.\r\n",
         "physicalDescription": "Rectangular micromosaic picture of a young woman dressed in peasant clothing in a field with ruins in the distance, after \"The Young Harvester\" by A.M. Jaspe y Moscoso. She stands in left profile and holding out her arm, drops grain into a container on the ground in front of her. The mosaic is in a rectangular gilt frame.",
         "artistMakerPerson": [],
         "artistMakerOrganisations": [
@@ -18065,7 +18321,7 @@
             "id": "AAT240903"
           }
         ],
-        "materialsAndTechniques": "Micromosaic and gilt wooden frame",
+        "materialsAndTechniques": "Micromosaic and carved and gilded wood frame",
         "categories": [
           {
             "text": "Metalwork",
@@ -18235,9 +18491,9 @@
         ],
         "dimensionsNote": "Measured 07/10/24 CV",
         "marksAndInscriptions": [],
-        "objectHistory": "Provenance: South Audley Art Galleries, London, 1973.",
+        "objectHistory": "Provenance: South Audley Art Galleries, London, 1973.\r\n\r\nMicromosaics have their roots in the larger mosaics of ancient Rome used to decorate their walls and floors. The first micromosaics were created in the 18th century, but it was not until Arthur Gilbert himself became interested in collecting them and invented the term 'micromosaics' that they became known as such. The tesserae are minute pieces cut from thin pieces of glass known as smalti filati, and some of the finest micomosaics can consist of as many as 1500 tesserae per square centimetre. By the late 18th century Rome had become central to the production of micromosaics and sold them as souvenirs to wealthy foreigners visiting the city. From small elegant snuffboxes to large monumental tabletops, micromosaics could be used to decorate objects of all shapes and sizes. They could even be made to resemble full-sized canvas paintings, and indeed Arthur Gilbert himself mistook his very first micromosaic for a painting. When he brought it home to show his wife, he had to convince her that it was not in fact a cracked painting, as she supposed, but a mosaic.",
         "historicalContext": "",
-        "briefDescription": "Rectangular micromosaic depicting a young woman in a field. Porta Constant Mosaic Manufactory, Rome, 1883-1899.",
+        "briefDescription": "Rectangular micromosaic panel depicting a young woman in a field. Porta Constant Mosaic Manufactory, Rome, 1883-1899.",
         "bibliographicReferences": [
           {
             "reference": {
@@ -18311,7 +18567,7 @@
           "2025PH3822",
           "2019LW1030"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -18383,8 +18639,17 @@
         "systemNumber": "O157994",
         "accessionNumber": "LOAN:GILBERT.827:1-2008",
         "objectType": "Candelabra",
-        "titles": [],
-        "summaryDescription": "Unlike candlesticks, the weight and large size of these candelabra suggest they were designed to be placed upon the dining table, rather than easily transported around. While some elements of the candelabra’s Neoclassical ornament can be found in other designs by Rundell, Bridge &amp; Rundell, the triangular base was deliberately left undecorated to include the owner’s monogram or family heraldry: The arms of the Foley family indicate this was made for Sir Thomas Foley (1780-1833). Another pair is known to have been made for Sir Richard Sutton, Baronet bearing Philip Rundell's mark and London hallmarks for 1820-21.\n\r\nPaul Storr was the most celebrated silversmith of the 19th century. Storr was an astute businessman whose workshop produced high quality silver in inventive and fashionable designs. Storr was superintendent of the silversmithing firm Rundell, Bridge & Rundell from 1807 to 1818-9, supplying silver to the Prince Regent and members of British and European aristocracy.\n\r\nSir Arthur Gilbert and his wife Rosalinde formed one of the world's  great decorative art collections, including silver, mosaics, enamelled  portrait miniatures and gold boxes.  Arthur Gilbert donated his  extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "",
+            "type": ""
+          },
+          {
+            "title": "Candelabra",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts bought these candelabra soon after they began collecting 18th and 19th-century silver. Monumental in scale and skilfully designed by London silversmith, Paul Storr, they were highlights of the Gilberts’ collection. The base would have been deliberately left undecorated to include the owner’s monogram or family heraldry: the arms here indicate they were made for navy officer, Sir Thomas Foley (1780–1833).\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Four-light, silver-gilt candelabra (one of a pair) with a triangular plinth with incurved sides and canted angles supported by three shell-and-foliage bracket feet with shells between; a band of rosettes is applied to the lower border and foliage sprays to the angles.  The baluster stem is composed of acanthus calyxes and fluted, wreathed, elements and has a vase shaped acanthus socket. The central light and three reeded and foliate scroll branches each have a band of acanthus on the socket and a foliate border on the detachable nozzle.  A coat of arms is applied three times to each plinth, and the nozzles are engraved with a crest and a coronet.\r\n\r\nThe plinths are each formed from several raised sheets soldered together;  the cast ornament is applied with solder.  The coats of arms and foliage sprays at the angles are cast and attached by screws.  The plinth is inturn attached to the calyx at the base of the stem by three screws.  The stem is apparently cast in twelve sections that are soldered together.  The branches are cast and soldered to a central plate that fits into the socket at the top of the stem.  The sockets surmounting the branches are cast and screwed into the branches;  they have detachable wax pans and nozzles..  The socket for the central light, also with a detachable nozzle, fits into a foliage calyx, which is cast in halves and fits into the central plate, where it is secured by two locating pins.  A long threaded shaft passes from the baseof the socket thrugh the foliage calyx beneath it and screws into the main stem.",
         "artistMakerPerson": [
           {
@@ -18396,7 +18661,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -18996,7 +19261,7 @@
             "note": "The arms and crest are those of Foley, presumably for Thomas, third Baron Foley of Kidderminster (1780-1833), who succeeded his father in 1793 and married in 1806 Lady Cecilia Olivia Geraldine Fitzgerald, fifth daughter of William Robert Fitzgerald, second Duke of Leinster.  During the last two years of his life, the Baron was Lord Lieutenant of Worcestershire.\r\n\r\nThe arms of Foley are blazoned <i>Argent, a fez engrailed sable between three cinquefoils, all within a bordure of the second</i>; the quatrefoils shown here were presumably an error."
           }
         ],
-        "objectHistory": "Provenance: Thomas Foley, third baron of Foley of Kidderminster.  By descent to the Foley-Grey collection, sale, Christie's., June 18, 1924, lot 64 (set of four).  Purchased from S.J.  Shrubsole Corporation, New York., 1973.",
+        "objectHistory": "Provenance: Thomas Foley, third baron of Foley of Kidderminster.  By descent to the Foley-Grey collection, sale, Christie's., June 18, 1924, lot 64 (set of four).  Purchased from S.J.  Shrubsole Corporation, New York., 1973.\r\n\r\nUnlike candlesticks, the weight and large size of these candelabra  suggest they were designed to be placed upon the dining table,  rather than easily transported around. While some elements of the  candelabra’s Neoclassical ornament can be found in other designs by Rundell,  Bridge & Rundell, the triangular base was deliberately left undecorated to include  the owner’s monogram or family heraldry: The arms of the Foley family  indicate this was made for Sir Thomas Foley (1780-1833). Another  pair is known to have been made for Sir Richard Sutton, Baronet  bearing Philip Rundell's mark and London hallmarks for 1820-21.\r\n\r\nPaul Storr was the most celebrated silversmith of the 19th century.  Storr was an astute businessman whose workshop produced high quality silver in inventive and fashionable designs. Storr was superintendent of the silversmithing firm Rundell, Bridge & Rundell  from 1807 to 1818-9, supplying silver to the Prince Regent and  members of British and European aristocracy.",
         "historicalContext": "",
         "briefDescription": "Silver-gilt, London hallmarks for 1816-17, mark of Paul Storr",
         "bibliographicReferences": [
@@ -19183,7 +19448,7 @@
           "2019LW3684",
           "2019LV8465"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -19245,8 +19510,13 @@
         "systemNumber": "O157995",
         "accessionNumber": "LOAN:GILBERT.828:1-2008",
         "objectType": "Candelabra",
-        "titles": [],
-        "summaryDescription": "Unlike candlesticks, the weight and large size of these candelabra  suggest they were designed to be placed upon the dining table,  rather than easily transported around. While some elements of the  candelabra’s Neoclassical ornament can be found in other designs by Rundell,  Bridge & Rundell, the triangular base was deliberately left undecorated to include  the owner’s monogram or family heraldry: The arms of the Foley family  indicate this was made for Sir Thomas Foley (1780-1833). Another  pair is known to have been made for Sir Richard Sutton, Baronet  bearing Philip Rundell's mark and London hallmarks for 1820-21.\r\n\r\nPaul Storr was the most celebrated silversmith of the 19th century.  Storr was an astute businessman whose workshop produced high  quality silver in inventive and fashionable designs. Storr was superintendent of the silversmithing firm Rundell, Bridge & Rundell  from 1807 to 1818-9, supplying silver to the Prince Regent and  members of British and European aristocracy.\r\n\r\nSir Arthur Gilbert and his wife Rosalinde formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. Arthur Gilbert donated his extraordinary collection to Britain in 1996.",
+        "titles": [
+          {
+            "title": "Candelabra",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "The Gilberts bought these candelabra soon after they began collecting 18th and 19th-century silver. Monumental in scale and skilfully designed by London silversmith, Paul Storr, they were highlights of the Gilberts’ collection. The base would have been deliberately left undecorated to include the owner’s monogram or family heraldry: the arms here indicate they were made for navy officer, Sir Thomas Foley (1780–1833).\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "Four-light, silver-gilt candelabra (one of a pair) with a triangular plinth with incurved sides and canted angles supported by three shell-and-foliage bracket feet with shells between; a band of rosettes is applied to the lower border and foliage sprays to the angles.  The baluster stem is composed of acanthus calyxes and fluted, wreathed, elements and has a vase shaped acanthus socket. The central light and three reeded and foliate scroll branches each have a band of acanthus on the socket and a foliate border on the detachable nozzle.  A coat of arms is applied three times to each plinth, and the nozzles are engraved with a crest and a coronet.\r\n\r\nThe plinths are each formed from several raised sheets soldered together;  the cast ornament is applied with solder.  The coats of arms and foliage sprays at the angles are cast and attached by screws.  The plinth is inturn attached to the calyx at the base of the stem by three screws.  The stem is apparently cast in twelve sections that are soldered together.  The branches are cast and soldered to a central plate that fits into the socket at the top of the stem.  The sockets surmounting the branches are cast and screwed into the branches;  they have detachable wax pans and nozzles..  The socket for the central light, also with a detachable nozzle, fits into a foliage calyx, which is cast in halves and fits into the central plate, where it is secured by two locating pins.  A long threaded shaft passes from the baseof the socket thrugh the foliage calyx beneath it and screws into the main stem.",
         "artistMakerPerson": [
           {
@@ -19258,7 +19528,7 @@
               "text": "maker",
               "id": "AAT251917"
             },
-            "note": ""
+            "note": "silversmith"
           }
         ],
         "artistMakerOrganisations": [],
@@ -19318,11 +19588,21 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          },
+          {
+            "current": {
+              "text": "002",
+              "id": "THES384023"
+            },
+            "free": "",
+            "case": "",
             "shelf": "",
             "box": ""
           },
@@ -19338,121 +19618,111 @@
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "70B",
-              "id": "THES413996"
+              "text": "002",
+              "id": "THES384023"
             },
             "free": "",
-            "case": "CA014",
-            "shelf": "",
-            "box": ""
-          },
-          {
-            "current": {
-              "text": "70B",
-              "id": "THES413996"
-            },
-            "free": "",
-            "case": "CA014",
+            "case": "",
             "shelf": "",
             "box": ""
           }
@@ -19817,7 +20087,7 @@
             "note": "The arms and crest are those of Foley, presumably for Thomas, third Baron Foley of Kidderminster (1780-1833), who succeeded his father in 1793 and married in 1806 Lady Cecilia Olivia Geraldine Fitzgerald, fifth daughter of William Robert Fitzgerald, second Duke of Leinster.  During the last two years of his life, the Baron was Lord Lieutenant of Worcestershire.\r\n\r\nThe arms of Foley are blazoned <i>Argent, a fez engrailed sable between three cinquefoils, all within a bordure of the second</i>; the quatrefoils shown here were presumably an error."
           }
         ],
-        "objectHistory": "Provenance: Thomas Foley, third Baron of Foley of Kidderminster.  By descent to the Foley-Grey collection, sale, Christie's., June 18, 1924, lot 64 (set of four).  Purchased from S.J.  Shrubsole Corporation, New York., 1973.",
+        "objectHistory": "Provenance: Thomas Foley, third Baron of Foley of Kidderminster.  By descent to the Foley-Grey collection, sale, Christie's., June 18, 1924, lot 64 (set of four).  Purchased from S.J.  Shrubsole Corporation, New York., 1973.\r\n\r\nUnlike candlesticks, the weight and large size of these candelabra  suggest they were designed to be placed upon the dining table,  rather than easily transported around. While some elements of the  candelabra’s Neoclassical ornament can be found in other designs by Rundell,  Bridge & Rundell, the triangular base was deliberately left undecorated to include  the owner’s monogram or family heraldry: The arms of the Foley family  indicate this was made for Sir Thomas Foley (1780-1833). Another  pair is known to have been made for Sir Richard Sutton, Baronet  bearing Philip Rundell's mark and London hallmarks for 1820-21.\r\n\r\nPaul Storr was the most celebrated silversmith of the 19th century.  Storr was an astute businessman whose workshop produced high  quality silver in inventive and fashionable designs. Storr was superintendent of the silversmithing firm Rundell, Bridge & Rundell  from 1807 to 1818-9, supplying silver to the Prince Regent and  members of British and European aristocracy.",
         "historicalContext": "",
         "briefDescription": "Silver-gilt, London hallmarks for 1816-17, mark of Paul Storr",
         "bibliographicReferences": [
@@ -19996,7 +20266,7 @@
           "2019LT7975",
           "2019LV9756"
         ],
-        "recordModificationDate": "2026-01-20",
+        "recordModificationDate": "2026-02-27",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
