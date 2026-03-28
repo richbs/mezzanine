@@ -7079,11 +7079,16 @@
           }
         },
         "images": {
-          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8121/full/!100,100/0/default.jpg",
-          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8121/",
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2025PK8120/full/!100,100/0/default.jpg",
+          "_iiif_image": "https://framemark.vam.ac.uk/collections/2025PK8120/",
           "_alt_iiif_image": [],
           "imageResolution": "high",
           "_images_meta": [
+            {
+              "assetRef": "2025PK8120",
+              "copyright": "© Victoria and Albert Museum, London",
+              "sensitiveImage": false
+            },
             {
               "assetRef": "2025PK8121",
               "copyright": "© Victoria and Albert Museum, London",
@@ -7207,6 +7212,7 @@
           "id": "THES48599"
         },
         "images": [
+          "2025PK8120",
           "2025PK8121",
           "2025PK8123",
           "2025PK8122",
@@ -10425,7 +10431,20 @@
             "note": ""
           }
         ],
-        "productionDates": [],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1816-18",
+              "earliest": "1816-01-01",
+              "latest": "1818-12-31"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": "London hallmarks for 1816-18"
+          }
+        ],
         "associatedObjects": [],
         "creditLine": "The Rosalinde and Arthur Gilbert Collection on loan to the Victoria and Albert Museum, London",
         "dimensions": [
@@ -10590,7 +10609,7 @@
           "2019LW8707",
           "2019LW3331"
         ],
-        "recordModificationDate": "2026-02-27",
+        "recordModificationDate": "2026-03-06",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -11988,7 +12007,7 @@
             "type": ""
           }
         ],
-        "summaryDescription": "The Gilberts visited the Vatican Mosaic Workshop many times to learn about the craft of micromosaics. They acquired this tabletop in 1969, allegedly receiving it as a gift from the Vatican in return for a donation. The central image is based on <i>The Lion Hunt</i>, a painting from 1836 by French artist Horace Vernet, who had travelled in Algeria and the Middle East.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&amp;A since 2008. \r\n",
+        "summaryDescription": "The Gilberts visited the Vatican Mosaic Workshop many times to learn about the craft of micromosaics. They acquired this tabletop in 1969, allegedly receiving it as a gift from the Vatican in return for a donation. The central image is based on <i>The Lion Hunt</i>, a painting from 1836 by French artist Horace Vernet, who had travelled in Algeria and the Middle East.\r\n\r\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008. \r\n",
         "physicalDescription": "Round black marble table with a micromosaic depiction of three Arabs on horseback attacking a lioness with spears. This scene is surrounded by a floral wreath. The table has a gilt bronze pedestal base.",
         "artistMakerPerson": [
           {
@@ -12292,7 +12311,7 @@
           "2025PC5588",
           "2019MF2626"
         ],
-        "recordModificationDate": "2026-02-26",
+        "recordModificationDate": "2026-03-10",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -14922,7 +14941,7 @@
             "type": ""
           }
         ],
-        "summaryDescription": "\nBy the 1860s, micromosaicists began to vary their output beyond antique motifs. They depicted new subjects like figures in historic dress, which were fashionable in contemporary paintings. Luigi Tarantoni specialized in these types of figures. He was also known for his distinctive backgrounds, in graduated colours from orange to gold, to blue. The Gilberts purchased this work in 1969 from a New York dealer.\r\n\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&amp;A since 2008.",
+        "summaryDescription": "\nBy the 1860s, micromosaicists began to vary their output beyond antique motifs. They depicted new subjects like figures in historic dress, which were fashionable in contemporary paintings. Luigi Tarantoni specialized in these types of figures. He was also known for his distinctive backgrounds, in graduated colours from orange to gold, to blue. The Gilberts purchased this work in 1969 from a New York dealer.\r\n\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.",
         "physicalDescription": "Rectangular micromosaic picture with a central full-length figure of a helmeted man in seventeenth century soldier's attire carrying a long rifle over his right shoulder. At the lower right is the signature: RFS Petri/Tarantoni.",
         "artistMakerPerson": [
           {
@@ -14967,7 +14986,7 @@
             "id": "AAT53149"
           }
         ],
-        "materialsAndTechniques": "Micromosaic, gilded  and carved wood.",
+        "materialsAndTechniques": "Micromosaic, gilded  and carved wood",
         "categories": [
           {
             "text": "Metalwork",
@@ -15234,7 +15253,7 @@
         "assets": [
           "2019MF3201"
         ],
-        "recordModificationDate": "2026-02-27",
+        "recordModificationDate": "2026-03-06",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
@@ -17969,10 +17988,10 @@
               "id": "A22392"
             },
             "association": {
-              "text": "mosaicists",
-              "id": "AAT25276"
+              "text": "maker",
+              "id": "x40240"
             },
-            "note": ""
+            "note": "mosiacist"
           }
         ],
         "artistMakerOrganisations": [],
@@ -18198,7 +18217,7 @@
           "2025PH0480",
           "2019MF3192"
         ],
-        "recordModificationDate": "2026-02-27",
+        "recordModificationDate": "2026-03-06",
         "recordCreationDate": "2008-06-19",
         "availableToBook": false
       }
@@ -18276,7 +18295,7 @@
             "type": ""
           }
         ],
-        "summaryDescription": "The idealised scene of a woman wearing traditional regional clothing with Roman ruins and landscape was a highly fashionable subject at the time. It carried political meaning in support of the social movements leading to the unification of Italy. An inscription on the back of the work’s frame states it was made at Porta Constant Mosaic Manufactory in Rome, about which little is known.\n\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&amp;A since 2008.\r\n",
+        "summaryDescription": "The idealised scene of a woman wearing traditional regional clothing with Roman ruins and landscape was a highly fashionable subject at the time. It carried political meaning in support of the social movements leading to the unification of Italy. An inscription on the back of the work’s frame states it was made at Porta Constant Mosaic Manufactory in Rome, about which little is known.\n\nRosalinde and Arthur Gilbert formed one of the world's great decorative art collections, including silver, mosaics, enamelled portrait miniatures and gold boxes. The Gilbert Collection has been in the care of the V&A since 2008.\r\n",
         "physicalDescription": "Rectangular micromosaic picture of a young woman dressed in peasant clothing in a field with ruins in the distance, after \"The Young Harvester\" by A.M. Jaspe y Moscoso. She stands in left profile and holding out her arm, drops grain into a container on the ground in front of her. The mosaic is in a rectangular gilt frame.",
         "artistMakerPerson": [],
         "artistMakerOrganisations": [
@@ -19588,21 +19607,11 @@
         "galleryLocations": [
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
-            "shelf": "",
-            "box": ""
-          },
-          {
-            "current": {
-              "text": "002",
-              "id": "THES384023"
-            },
-            "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
@@ -19618,111 +19627,121 @@
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           },
           {
             "current": {
-              "text": "002",
-              "id": "THES384023"
+              "text": "70B",
+              "id": "THES413996"
             },
             "free": "",
-            "case": "",
+            "case": "CA014",
+            "shelf": "",
+            "box": ""
+          },
+          {
+            "current": {
+              "text": "70B",
+              "id": "THES413996"
+            },
+            "free": "",
+            "case": "CA014",
             "shelf": "",
             "box": ""
           }
@@ -20266,7 +20285,7 @@
           "2019LT7975",
           "2019LV9756"
         ],
-        "recordModificationDate": "2026-02-27",
+        "recordModificationDate": "2026-03-09",
         "recordCreationDate": "2008-06-26",
         "availableToBook": false
       }
